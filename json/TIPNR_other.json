@@ -1,0 +1,3149 @@
+﻿[
+{
+  "uniqueName": "Apharasthchite@Ezr.4.9",
+  "description": "Word sometimes translated as a title",
+   "names": [
+    {
+      "translatedUnique": "govenors|Apharasthchite@Ezr.4.9",
+      "extendedStrongs": "H0671b",
+      "Hebrew_Greek": "אֲפָֽרְסַתְּכָיֵא",
+      "ESV_translation": "govenors",
+      "NIV_translation": "officials",
+      "KJV_translation": "Apharasthchite",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Ezr.4.9"]
+    }
+
+]},
+{
+  "uniqueName": "Abaddon@Job.26.6",
+  "description": "A non-physical place",
+   "names": [
+    {
+      "translatedUnique": "Abaddon@Job.26.6",
+      "extendedStrongs": "H0011",
+      "Hebrew_Greek": "אֲבַדּוֹן",
+      "ESV_translation": "Abaddon",
+      "NIV_translation": "Abaddon",
+      "KJV_translation": "Abaddon",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Job.26.6", "Job.28.22", "Job.31.12", "Psa.88.11", "Pro.15.11"]
+    },
+
+    {
+      "translatedUnique": "Abaddon@Job.26.6",
+      "extendedStrongs": "H0011",
+      "Hebrew_Greek": "אֲבַדּוֹן",
+      "ESV_translation": "Abaddon",
+      "NIV_translation": "Abaddon",
+      "KJV_translation": "Abaddon",
+      "OT_Ketiv_translated": "destruction",
+      "OT_Qere_translated": "Abaddon",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Pro.27.20"]
+    }
+
+]},
+{
+  "uniqueName": "Abaddon@Rev.9.11",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Abaddon@Rev.9.11",
+      "extendedStrongs": "G0003",
+      "Hebrew_Greek": "Ἀβαδδών",
+      "ESV_translation": "Abaddon",
+      "NIV_translation": "Abaddon",
+      "KJV_translation": "Abaddon",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Rev.9.11"]
+    },
+
+    {
+      "translatedUnique": "Apollyon|Abaddon@Rev.9.11",
+      "extendedStrongs": "G0623",
+      "Hebrew_Greek": "Ἀπολλύων",
+      "ESV_translation": "Apollyon",
+      "NIV_translation": "Apollyon",
+      "KJV_translation": "Apollyon",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Rev.9.11"]
+    }
+
+]},
+{
+  "uniqueName": "Abba@Mrk.14.36",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Abba@Mrk.14.36",
+      "extendedStrongs": "G0005",
+      "Hebrew_Greek": "ἀββά",
+      "ESV_translation": "Abba",
+      "NIV_translation": "Abba",
+      "KJV_translation": "Abba",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mrk.14.36", "Rom.8.15", "Gal.4.6"]
+    }
+
+]},
+{
+  "uniqueName": "Abib@Exo.13.4",
+  "description": "Name of month #1",
+   "names": [
+    {
+      "translatedUnique": "Abib@Exo.13.4",
+      "extendedStrongs": "H0024",
+      "Hebrew_Greek": "אָבִיב",
+      "ESV_translation": "Abib",
+      "NIV_translation": "Aviv",
+      "KJV_translation": "Abib",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Exo.13.4", "Exo.23.15", "Exo.34.18a", "Exo.34.18b", "Deu.16.1a", "Deu.16.1b "]
+    },
+
+    {
+      "translatedUnique": "Nisan|Abib@Exo.13.4",
+      "extendedStrongs": "H5212",
+      "Hebrew_Greek": "נִיסָן",
+      "ESV_translation": "Nisan",
+      "NIV_translation": "Nisan",
+      "KJV_translation": "Nisan",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Neh.2.1"]
+    }
+
+]},
+{
+  "uniqueName": "Adar@Ezr.6.15",
+  "description": "Name of month #12",
+   "names": [
+    {
+      "translatedUnique": "Adar@Ezr.6.15",
+      "extendedStrongs": "H0143",
+      "Hebrew_Greek": "אֲדָר",
+      "ESV_translation": "Adar",
+      "NIV_translation": "Adar",
+      "KJV_translation": "Adar",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Est.3.7", "Est.3.13", "Est.8.12", "Est.9.1", "Est.9.15", "Est.9.17", "Est.9.19", "Est.9.21"]
+    },
+
+    {
+      "translatedUnique": "Adar@Ezr.6.15",
+      "extendedStrongs": "H0144",
+      "Hebrew_Greek": "אֲדָר",
+      "ESV_translation": "Adar",
+      "NIV_translation": "Adar",
+      "KJV_translation": "Adar",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Ezr.6.15"]
+    }
+
+]},
+{
+  "uniqueName": "Alamoth@1Ch.15.20",
+  "description": "A musical term",
+   "names": [
+    {
+      "translatedUnique": "Alamoth@1Ch.15.20",
+      "extendedStrongs": "H5961",
+      "Hebrew_Greek": "עֲלָמוֹת",
+      "ESV_translation": "Alamoth",
+      "NIV_translation": "Alamoth",
+      "KJV_translation": "Alamoth",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["1Ch.15.20", "Psa.9.1", "Psa.46.1"]
+    }
+
+]},
+{
+  "uniqueName": "Al-taschith@Psa.57.1",
+  "description": "A musical term",
+   "names": [
+    {
+      "translatedUnique": "Do_Not_Destroy|Al-taschith@Psa.57.1",
+      "extendedStrongs": "H0516",
+      "Hebrew_Greek": "אַל תַּשְׁחֵת",
+      "ESV_translation": "Do Not Destroy",
+      "NIV_translation": "Do Not Destroy",
+      "KJV_translation": "Al-taschith",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Psa.57.1", "Psa.58.1", "Psa.59.1", "Psa.75.1"]
+    }
+
+]},
+{
+  "uniqueName": "Amon@Jer.46.25",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Amon@Jer.46.25",
+      "extendedStrongs": "H0528",
+      "Hebrew_Greek": "אָמוֹן",
+      "ESV_translation": "Amon",
+      "NIV_translation": "Amon",
+      "KJV_translation": "Amon",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Jer.46.25", "Nam.3.8"]
+    }
+
+]},
+{
+  "uniqueName": "Apharsachite@Ezr.5.6",
+  "description": "A group in Old Testament times",
+   "names": [
+    {
+      "translatedUnique": "governors|Apharsachite@Ezr.5.6",
+      "extendedStrongs": "H0671a",
+      "Hebrew_Greek": "אֲפָֽרְסְכָיֵא",
+      "ESV_translation": "governors",
+      "NIV_translation": "officials",
+      "KJV_translation": "Apharsachites",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Ezr.5.6", "Ezr.6.6"]
+    }
+
+]},
+{
+  "uniqueName": "Aramaic@2Ki.18.26",
+  "description": "A language",
+   "names": [
+    {
+      "translatedUnique": "Aramaic@2Ki.18.26",
+      "extendedStrongs": "G1447",
+      "Hebrew_Greek": "Ἑβραϊστί",
+      "ESV_translation": "Aramaic",
+      "NIV_translation": "Aramaic",
+      "KJV_translation": "Aramaic",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Jhn.5.2", "Jhn.19.13", "Jhn.19.17", "Jhn.19.20", "Jhn.20.16"]
+    },
+
+    {
+      "translatedUnique": "Aramaic@2Ki.18.26",
+      "extendedStrongs": "H0762",
+      "Hebrew_Greek": "אֲרָמִית",
+      "ESV_translation": "Aramaic",
+      "NIV_translation": "Aramaic",
+      "KJV_translation": "Aramaic",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["2Ki.18.26", "Ezr.4.7", "Isa.36.11", "Dan.2.4"]
+    }
+
+]},
+{
+  "uniqueName": "Asherah@Exo.34.13",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Asherah@Exo.34.13",
+      "extendedStrongs": "H0842",
+      "Hebrew_Greek": "אֲשֵׁרָה",
+      "ESV_translation": "Asherah",
+      "NIV_translation": "Asherah",
+      "KJV_translation": "Asherah",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Deu.16.21", "Jdg.6.25", "Jdg.6.26", "Jdg.6.28", "Jdg.6.30", "1Ki.15.13", "1Ki.16.33", "1Ki.18.19", "2Ki.13.6", "2Ki.17.16", "2Ki.18.4", "2Ki.21.3", "2Ki.21.7", "2Ki.23.4", "2Ki.23.6", "2Ki.23.7", "2Ki.23.15", "2Ch.15.16", "Mic.5.14"]
+    },
+
+    {
+      "translatedUnique": "Asherah@Exo.34.13",
+      "extendedStrongs": "H0842",
+      "Hebrew_Greek": "אֲשֵׁרָה",
+      "ESV_translation": "Asherim",
+      "NIV_translation": "Asherim",
+      "KJV_translation": "Asherim",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Exo.34.13", "Deu.7.5", "Deu.12.3", "1Ki.14.15", "1Ki.14.23", "2Ki.17.10", "2Ki.23.14", "2Ch.14.3", "2Ch.17.6", "2Ch.24.18", "2Ch.31.1", "2Ch.33.19", "2Ch.34.3", "2Ch.34.4", "2Ch.34.7", "Isa.17.8", "Isa.27.9", "Jer.17.2"]
+    },
+
+    {
+      "translatedUnique": "Asherah@Exo.34.13",
+      "extendedStrongs": "H0842",
+      "Hebrew_Greek": "אֲשֵׁרָה",
+      "ESV_translation": "Asheroth",
+      "NIV_translation": "Asheroth",
+      "KJV_translation": "Asheroth",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Jdg.3.7", "2Ch.19.3", "2Ch.33.3"]
+    }
+
+]},
+{
+  "uniqueName": "Ashima@2Ki.17.30",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Ashima@2Ki.17.30",
+      "extendedStrongs": "H0807",
+      "Hebrew_Greek": "אֲשִׁימָא",
+      "ESV_translation": "Ashima",
+      "NIV_translation": "Ashima",
+      "KJV_translation": "Ashima",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["2Ki.17.30"]
+    }
+
+]},
+{
+  "uniqueName": "Ashtaroth@Jdg.2.13",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Ashtaroth@Jdg.2.13",
+      "extendedStrongs": "H6252",
+      "Hebrew_Greek": "עַשְׁתָּרוֹת",
+      "ESV_translation": "Ashtaroth",
+      "NIV_translation": "Ashtaroth",
+      "KJV_translation": "Ashtaroth",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Jdg.2.13", "Jdg.10.6", "1Sa.7.3", "1Sa.7.4", "1Sa.12.10", "1Sa.31.10"]
+    }
+
+]},
+{
+  "uniqueName": "Asiarch@Act.19.31",
+  "description": "Title of a leader",
+   "names": [
+    {
+      "translatedUnique": "Asiarch@Act.19.31",
+      "extendedStrongs": "G0775",
+      "Hebrew_Greek": "Ἀσιάρχης",
+      "ESV_translation": "Asiarch",
+      "NIV_translation": "Asiarch",
+      "KJV_translation": "Asiarch",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Act.19.31"]
+    }
+
+]},
+{
+  "uniqueName": "Azazel@Lev.16.8",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Azazel@Lev.16.8",
+      "extendedStrongs": "H5799",
+      "Hebrew_Greek": "עֲזָאזֵל",
+      "ESV_translation": "Azazel",
+      "NIV_translation": "Azazel",
+      "KJV_translation": "Azazel",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Lev.16.8", "Lev.16.10a", "Lev.16.10b", "Lev.16.26"]
+    }
+
+]},
+{
+  "uniqueName": "Baal@Hos.2.16",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Baal@Hos.2.16",
+      "extendedStrongs": "H1180",
+      "Hebrew_Greek": "בַּעֲלִי",
+      "ESV_translation": "Baal",
+      "NIV_translation": "Baal",
+      "KJV_translation": "Baal",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Hos.2.16"]
+    }
+
+]},
+{
+  "uniqueName": "Baal@Num.22.41",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Baal@Num.22.41",
+      "extendedStrongs": "G0896",
+      "Hebrew_Greek": "Βάαλ",
+      "ESV_translation": "Baal",
+      "NIV_translation": "Baal",
+      "KJV_translation": "Baal",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Rom.11.4"]
+    },
+
+    {
+      "translatedUnique": "Baal@Num.22.41",
+      "extendedStrongs": "H1168a",
+      "Hebrew_Greek": "בַּעַל",
+      "ESV_translation": "Baal",
+      "NIV_translation": "Baal",
+      "KJV_translation": "Baal",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Jdg.2.11", "Jdg.2.13", "Jdg.3.7", "Jdg.6.25", "Jdg.6.28", "Jdg.6.30", "Jdg.6.31", "Jdg.6.32", "Jdg.8.33", "Jdg.10.6", "Jdg.10.10", "1Sa.7.4", "1Sa.12.10", "1Ki.16.31", "1Ki.16.32a", "1Ki.16.32b", "1Ki.18.18", "1Ki.18.19", "1Ki.18.21", "1Ki.18.22", "1Ki.18.25", "1Ki.18.26a", "1Ki.18.26b", "1Ki.18.40", "1Ki.19.18", "1Ki.22.53", "2Ki.3.2", "2Ki.10.18", "2Ki.10.19a", "2Ki.10.19b", "2Ki.10.19c", "2Ki.10.20", "2Ki.10.21a", "2Ki.10.21b", "2Ki.10.21c", "2Ki.10.22", "2Ki.10.23a", "2Ki.10.23b", "2Ki.10.23c", "2Ki.10.25", "2Ki.10.26", "2Ki.10.27a", "2Ki.10.27b", "2Ki.10.28", "2Ki.11.18a", "2Ki.11.18b", "2Ki.17.16", "2Ki.21.3", "2Ki.23.4", "2Ki.23.5", "2Ch.17.3", "2Ch.23.17a", "2Ch.23.17b", "2Ch.24.7", "2Ch.28.2", "2Ch.33.3", "2Ch.34.4", "Jer.2.8", "Jer.2.23", "Jer.7.9", "Jer.9.14", "Jer.11.13", "Jer.11.17", "Jer.12.16", "Jer.19.5a", "Jer.19.5b", "Jer.23.13", "Jer.23.27", "Jer.32.29", "Jer.32.35", "Hos.2.8", "Hos.2.13", "Hos.2.17", "Hos.11.2", "Hos.13.1", "Zep.1.4"]
+    },
+
+    {
+      "translatedUnique": "Peor|Baal@Num.22.41",
+      "extendedStrongs": "H1187",
+      "Hebrew_Greek": "בַּ֫עַל פְּעוֹר",
+      "ESV_translation": "Baal of Peor",
+      "NIV_translation": "Baal of Peor",
+      "KJV_translation": "Baal , Baal-peor",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Num.25.3", "Num.25.5", "Psa.106.28"]
+    },
+
+    {
+      "translatedUnique": "Peor|Baal@Num.22.41",
+      "extendedStrongs": "H1187",
+      "Hebrew_Greek": "בַּ֫עַל פְּעוֹר",
+      "ESV_translation": "Baal-peor",
+      "NIV_translation": "Baal-peor",
+      "KJV_translation": "Baal-peor",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Deu.4.3", "Hos.9.10"]
+    },
+
+    {
+      "translatedUnique": "Peor|Baal@Num.22.41",
+      "extendedStrongs": "H1187",
+      "Hebrew_Greek": "בַּ֫עַל פְּעוֹר",
+      "ESV_translation": "Baal of Peor",
+      "NIV_translation": "Baal of Peor",
+      "KJV_translation": "Peor",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Deu.4.3"]
+    }
+
+]},
+{
+  "uniqueName": "Baal-berith@Jdg.8.33",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Baal-berith@Jdg.8.33",
+      "extendedStrongs": "H1170",
+      "Hebrew_Greek": "בַּעַל בְּרִית",
+      "ESV_translation": "Baal-berith",
+      "NIV_translation": "Baal-berith",
+      "KJV_translation": "Baal-berith",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Jdg.8.33", "Jdg.9.4"]
+    }
+
+]},
+{
+  "uniqueName": "Bear@Job.9.9",
+  "description": "A star or constellation",
+   "names": [
+    {
+      "translatedUnique": "Bear@Job.9.9",
+      "extendedStrongs": "H5906",
+      "Hebrew_Greek": "עַ֫יִשׁ",
+      "ESV_translation": "Bear",
+      "NIV_translation": "Bear",
+      "KJV_translation": "Arcturus",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Job.9.9", "Job.38.32"]
+    }
+
+]},
+{
+  "uniqueName": "Behemoth@Job.40.15",
+  "description": "A monster",
+   "names": [
+    {
+      "translatedUnique": "Behemoth@Job.40.15",
+      "extendedStrongs": "H0930",
+      "Hebrew_Greek": "בְּהֵמוֹת",
+      "ESV_translation": "Behemoth",
+      "NIV_translation": "Behemoth",
+      "KJV_translation": "Behemoth",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Job.40.15"]
+    }
+
+]},
+{
+  "uniqueName": "Bel@Isa.46.1",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Bel@Isa.46.1",
+      "extendedStrongs": "H1078",
+      "Hebrew_Greek": "בֵּל",
+      "ESV_translation": "Bel",
+      "NIV_translation": "Bel",
+      "KJV_translation": "Bel",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Isa.46.1", "Jer.50.2", "Jer.51.44"]
+    }
+
+]},
+{
+  "uniqueName": "Boaz@1Ki.7.21",
+  "description": "A pillar in temple",
+   "names": [
+    {
+      "translatedUnique": "Boaz@2Ch.3.17",
+      "extendedStrongs": "H1162",
+      "Hebrew_Greek": "בֹּ֫עַז",
+      "ESV_translation": "Boaz",
+      "NIV_translation": "Boaz",
+      "KJV_translation": "Boaz",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["1Ki.7.21", "2Ch.3.17"]
+    }
+
+]},
+{
+  "uniqueName": "Booths_Festival@Jhn.7.2",
+  "description": "Name of festival",
+   "names": [
+    {
+      "translatedUnique": "Booths_Festival@Jhn.7.2",
+      "extendedStrongs": "G4634",
+      "Hebrew_Greek": "σκηνοπηγία",
+      "ESV_translation": "Feast|Festival of Booths",
+      "NIV_translation": "Tabernacles",
+      "KJV_translation": "Tabernacles",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Jhn.7.2"]
+    }
+
+]},
+{
+  "uniqueName": "Bul@1Ki.6.38",
+  "description": "Name of month #8",
+   "names": [
+    {
+      "translatedUnique": "Bul@1Ki.6.38",
+      "extendedStrongs": "H0945",
+      "Hebrew_Greek": "בּוּל",
+      "ESV_translation": "Bul",
+      "NIV_translation": "Bul",
+      "KJV_translation": "Bul",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["1Ki.6.38"]
+    }
+
+]},
+{
+  "uniqueName": "Candace@Act.8.27",
+  "description": "Title of a leader",
+   "names": [
+    {
+      "translatedUnique": "Candace@Act.8.27",
+      "extendedStrongs": "G2582",
+      "Hebrew_Greek": "Κανδάκη",
+      "ESV_translation": "Candace",
+      "NIV_translation": "Candace",
+      "KJV_translation": "Candace",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Act.8.27"]
+    }
+
+]},
+{
+  "uniqueName": "Chemosh@Num.21.29",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Chemosh@Num.21.29",
+      "extendedStrongs": "H3645",
+      "Hebrew_Greek": "כְּמוֹשׁ",
+      "ESV_translation": "Chemosh",
+      "NIV_translation": "Chemosh",
+      "KJV_translation": "Chemosh",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Num.21.29", "Jdg.11.24", "1Ki.11.7", "1Ki.11.33", "2Ki.23.13", "Jer.48.7", "Jer.48.13", "Jer.48.46"]
+    }
+
+]},
+{
+  "uniqueName": "Chislev@Neh.1.1",
+  "description": "Name of month #9",
+   "names": [
+    {
+      "translatedUnique": "Chislev@Neh.1.1",
+      "extendedStrongs": "H3691",
+      "Hebrew_Greek": "כִּסְלֵו",
+      "ESV_translation": "Chislev",
+      "NIV_translation": "Chislev",
+      "KJV_translation": "Chislev",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Neh.1.1", "Zec.7.1"]
+    }
+
+]},
+{
+  "uniqueName": "Chronicles@1Ki.14.19",
+  "description": "Name of a book",
+   "names": [
+    {
+      "translatedUnique": "Chronicles@1Ki.14.19",
+      "extendedStrongs": "H1697",
+      "Hebrew_Greek": "דָּבָר",
+      "ESV_translation": "Chronicles",
+      "NIV_translation": "Chronicles",
+      "KJV_translation": "Chronicles",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["1Ki.14.19", "1Ki.14.29", "1Ki.15.7", "1Ki.15.23", "1Ki.15.31", "1Ki.16.5", "1Ki.16.14", "1Ki.16.20", "1Ki.16.27", "1Ki.22.39", "1Ki.22.45", "2Ki.1.18", "2Ki.8.23", "2Ki.10.34", "2Ki.12.19", "2Ki.13.8", "2Ki.13.12", "2Ki.14.15", "2Ki.14.18", "2Ki.14.28", "2Ki.15.6", "2Ki.15.11", "2Ki.15.15", "2Ki.15.21", "2Ki.15.26", "2Ki.15.31", "2Ki.15.36", "2Ki.16.19", "2Ki.20.20", "2Ki.21.17", "2Ki.21.25", "2Ki.23.28", "2Ki.24.5", "1Ch.29.29a", "1Ch.29.29b", "1Ch.29.29c", "2Ch.33.18", "2Ch.33.19", "Neh.12.23", "Est.10.2"]
+    }
+
+]},
+{
+  "uniqueName": "Dagon@Jdg.16.23",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Dagon@Jdg.16.23",
+      "extendedStrongs": "H1712",
+      "Hebrew_Greek": "דָּגוֹן",
+      "ESV_translation": "Dagon",
+      "NIV_translation": "Dagon",
+      "KJV_translation": "Dagon",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Jdg.16.23", "1Sa.5.2a", "1Sa.5.2b", "1Sa.5.3a", "1Sa.5.3b", "1Sa.5.4a", "1Sa.5.4b", "1Sa.5.4c", "1Sa.5.5a", "1Sa.5.5b", "1Sa.5.5c", "1Sa.5.7", "1Ch.10.10"]
+    }
+
+]},
+{
+  "uniqueName": "Dedication_Festival@Jhn.10.22",
+  "description": "Name of festival",
+   "names": [
+    {
+      "translatedUnique": "Dedication_Festival@Jhn.10.22",
+      "extendedStrongs": "G1456",
+      "Hebrew_Greek": "ἐγκαίνια",
+      "ESV_translation": "Feast|Festival of Dedication",
+      "NIV_translation": "Feast|Festival of Dedication",
+      "KJV_translation": "Feast|Festival of Dedication",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Jhn.10.22"]
+    }
+
+]},
+{
+  "uniqueName": "Destiny@Isa.65.11",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Destiny@Isa.65.11",
+      "extendedStrongs": "H4507",
+      "Hebrew_Greek": "מְנִי",
+      "ESV_translation": "Destiny",
+      "NIV_translation": "Destiny",
+      "KJV_translation": "troop",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Isa.65.11"]
+    }
+
+]},
+{
+  "uniqueName": "El-berith@Jdg.9.46",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "El-berith@Jdg.9.46",
+      "extendedStrongs": "H0410",
+      "Hebrew_Greek": "אֵל+H1286=בְּרִית",
+      "ESV_translation": "El-berith",
+      "NIV_translation": "El-berith",
+      "KJV_translation": "god Berith",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Jdg.9.46"]
+    }
+
+]},
+{
+  "uniqueName": "El-Elohe-Israel@Gen.33.20",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "El-Elohe-Israel@Gen.33.20",
+      "extendedStrongs": "H0410",
+      "Hebrew_Greek": "אֵל",
+      "ESV_translation": "El-Elohe-Israel",
+      "NIV_translation": "El-Elohe-Israel",
+      "KJV_translation": "El-Elohe-Israel",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Gen.33.20"]
+    }
+
+]},
+{
+  "uniqueName": "Eli@Mat.27.46",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Eli@Mat.27.46",
+      "extendedStrongs": "G2241",
+      "Hebrew_Greek": "ἠλί",
+      "ESV_translation": "Eli",
+      "NIV_translation": "Eli",
+      "KJV_translation": "Eli",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mat.27.46a", "Mat.27.46b"]
+    },
+
+    {
+      "translatedUnique": "Eloi|Eli@Mat.27.46",
+      "extendedStrongs": "G1682",
+      "Hebrew_Greek": "ἐλωΐ",
+      "ESV_translation": "Eloi",
+      "NIV_translation": "Eloi",
+      "KJV_translation": "Eloi",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mrk.15.34a", "Mrk.15.34b"]
+    }
+
+]},
+{
+  "uniqueName": "Elul@Neh.6.15",
+  "description": "Name of month #6",
+   "names": [
+    {
+      "translatedUnique": "Elul@Neh.6.15",
+      "extendedStrongs": "H0435",
+      "Hebrew_Greek": "אֱלוּל",
+      "ESV_translation": "Elul",
+      "NIV_translation": "Elul",
+      "KJV_translation": "Elul",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Neh.6.15"]
+    }
+
+]},
+{
+  "uniqueName": "Epicurean@Act.17.18",
+  "description": "A group in New Testament times",
+   "names": [
+    {
+      "translatedUnique": "Epicurean@Act.17.18",
+      "extendedStrongs": "G1946",
+      "Hebrew_Greek": "Ἐπικούρειος",
+      "ESV_translation": "Epicurean",
+      "NIV_translation": "Epicurean",
+      "KJV_translation": "Epicurean",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Act.17.18"]
+    }
+
+]},
+{
+  "uniqueName": "Ethanim@1Ki.8.2",
+  "description": "Name of month #7",
+   "names": [
+    {
+      "translatedUnique": "Ethanim@1Ki.8.2",
+      "extendedStrongs": "H0388",
+      "Hebrew_Greek": "אֵיתָנִים",
+      "ESV_translation": "Ethanim",
+      "NIV_translation": "Ethanim",
+      "KJV_translation": "Ethanim",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["1Ki.8.2"]
+    }
+
+]},
+{
+  "uniqueName": "Fortune@Isa.65.11",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Fortune@Isa.65.11",
+      "extendedStrongs": "H1408",
+      "Hebrew_Greek": "גַּד",
+      "ESV_translation": "Fortune",
+      "NIV_translation": "Fortune",
+      "KJV_translation": "troop",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Isa.65.11"]
+    }
+
+]},
+{
+  "uniqueName": "Freedmen@Act.6.9",
+  "description": "A group in New Testament times",
+   "names": [
+    {
+      "translatedUnique": "Freedmen@Act.6.9",
+      "extendedStrongs": "G3032",
+      "Hebrew_Greek": "Λιβερτῖνος",
+      "ESV_translation": "Freedmen",
+      "NIV_translation": "Freedmen",
+      "KJV_translation": "Freedmen",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Act.6.9"]
+    }
+
+]},
+{
+  "uniqueName": "Gabriel@Dan.8.16",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Gabriel@Dan.8.16",
+      "extendedStrongs": "G1043",
+      "Hebrew_Greek": "Γαβριήλ",
+      "ESV_translation": "Gabriel",
+      "NIV_translation": "Gabriel",
+      "KJV_translation": "Gabriel",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Luk.1.19", "Luk.1.26"]
+    },
+
+    {
+      "translatedUnique": "Gabriel@Dan.8.16",
+      "extendedStrongs": "H1403",
+      "Hebrew_Greek": "גַּבְרִיאֵל",
+      "ESV_translation": "Gabriel",
+      "NIV_translation": "Gabriel",
+      "KJV_translation": "Gabriel",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Dan.8.16", "Dan.9.21"]
+    }
+
+]},
+{
+  "uniqueName": "Gentile@Gen.10.5",
+  "description": "People descended from non-Jewish nations",
+   "names": [
+    {
+      "translatedUnique": "Gentile@Gen.10.5",
+      "extendedStrongs": "H1471a",
+      "Hebrew_Greek": "גּוֹי",
+      "ESV_translation": "peoples",
+      "NIV_translation": "peoples",
+      "KJV_translation": "Gentiles",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Gen.10.5"]
+    },
+
+    {
+      "translatedUnique": "Gentile@Gen.10.5",
+      "extendedStrongs": "H1471a",
+      "Hebrew_Greek": "גּוֹי",
+      "ESV_translation": "peoples",
+      "NIV_translation": "Gentiles",
+      "KJV_translation": "heathen",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Ezr.6.21", "Neh.5.8"]
+    },
+
+    {
+      "translatedUnique": "Gentile@Gen.10.5",
+      "extendedStrongs": "H1471a",
+      "Hebrew_Greek": "גּוֹי",
+      "ESV_translation": "nations",
+      "NIV_translation": "nations",
+      "KJV_translation": "Gentiles",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Isa.11.10", "Isa.42.1", "Isa.49.22", "Isa.54.3", "Isa.60.3", "Isa.60.5", "Isa.60.11", "Isa.60.16", "Isa.61.6", "Isa.61.9", "Isa.62.2", "Isa.66.12", "Isa.66.19b", "Jer.4.7", "Jer.14.22", "Jer.16.19", "Jer.46.1", "Lam.2.9", "Ezk.4.13", "Hos.8.8", "Jol.3.9", "Mic.5.8", "Zec.1.21", "Mal.1.11"]
+    },
+
+    {
+      "translatedUnique": "Gentile@Gen.10.5",
+      "extendedStrongs": "H1471a",
+      "Hebrew_Greek": "גּוֹי",
+      "ESV_translation": "nations",
+      "NIV_translation": "Gentiles",
+      "KJV_translation": "Gentiles",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Isa.42.6", "Isa.49.6"]
+    },
+
+    {
+      "translatedUnique": "Gentile@Gen.10.5",
+      "extendedStrongs": "G1484",
+      "Hebrew_Greek": "ἔθνος",
+      "ESV_translation": "Gentiles",
+      "NIV_translation": "Gentiles",
+      "KJV_translation": "Gentiles",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mat.4.15", "Mat.10.5", "Mat.10.18", "Mat.20.19", "Mrk.10.33", "Mrk.10.42", "Luk.2.32", "Luk.18.32", "Luk.21.24a", "Luk.21.24b", "Luk.22.25", "Act.4.27", "Act.9.15", "Act.10.45", "Act.11.1", "Act.11.18", "Act.13.46", "Act.13.47", "Act.13.48", "Act.14.2", "Act.14.5", "Act.14.27", "Act.15.3", "Act.15.7", "Act.15.12", "Act.15.14", "Act.15.17", "Act.15.19", "Act.15.23", "Act.18.6", "Act.21.11", "Act.21.19", "Act.21.21", "Act.21.25", "Act.22.21", "Act.26.17", "Act.26.20", "Act.26.23", "Act.28.28", "Rom.1.13", "Rom.2.4", "Rom.2.24", "Rom.3.29a", "Rom.3.29b", "Rom.9.24", "Rom.11.11", "Rom.11.12", "Rom.11.13a", "Rom.11.13b", "Rom.11.25", "Rom.15.9a", "Rom.15.9b", "Rom.15.10", "Rom.15.11", "Rom.15.12a", "Rom.15.12b", "Rom.15.16a", "Rom.15.16b", "Rom.15.18", "Rom.15.27", "Rom.16.4", "Gal.2.2", "Gal.2.8", "Gal.2.12", "Gal.2.14", "Gal.2.15", "Gal.3.14", "Eph.2.11", "Eph.3.1", "Eph.3.6", "Eph.3.8", "Eph.4.17", "Col.1.27", "1Th.2.16", "1Ti.2.7", "2Ti.4.17"]
+    },
+
+    {
+      "translatedUnique": "Gentile@Gen.10.5",
+      "extendedStrongs": "G1484",
+      "Hebrew_Greek": "ἔθνος",
+      "ESV_translation": "Gentiles",
+      "NIV_translation": "nations",
+      "KJV_translation": "Gentiles",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mat.12.18", "Mat.12.21"]
+    },
+
+    {
+      "translatedUnique": "Gentile@Gen.10.5",
+      "extendedStrongs": "G1484",
+      "Hebrew_Greek": "ἔθνος",
+      "ESV_translation": "Gentiles",
+      "NIV_translation": "pagans",
+      "KJV_translation": "Gentiles",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["1Th.4.5", "1Pe.2.12", "1Pe.4.3", "3Jn.1.7"]
+    },
+
+    {
+      "translatedUnique": "Gentile@Gen.10.5",
+      "extendedStrongs": "G1484",
+      "Hebrew_Greek": "ἔθνος",
+      "ESV_translation": "Gentiles",
+      "NIV_translation": "Gentiles",
+      "KJV_translation": "Greeks",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["1Co.1.23"]
+    },
+
+    {
+      "translatedUnique": "Gentile@Gen.10.5",
+      "extendedStrongs": "G1484",
+      "Hebrew_Greek": "ἔθνος",
+      "ESV_translation": "Gentiles",
+      "NIV_translation": "Gentiles",
+      "KJV_translation": "heathen",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["2Co.11.26", "Gal.1.16", "Gal.2.9"]
+    },
+
+    {
+      "translatedUnique": "Gentile@Gen.10.5",
+      "extendedStrongs": "G1484",
+      "Hebrew_Greek": "ἔθνος",
+      "ESV_translation": "nations",
+      "NIV_translation": "Gentiles",
+      "KJV_translation": "Gentiles",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Rev.11.2"]
+    },
+
+    {
+      "translatedUnique": "Gentile@Gen.10.5",
+      "extendedStrongs": "G1484",
+      "Hebrew_Greek": "ἔθνος",
+      "ESV_translation": "peoples",
+      "NIV_translation": "peoples",
+      "KJV_translation": "Gentiles",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Act.4.25"]
+    },
+
+    {
+      "translatedUnique": "Gentile@Gen.10.5",
+      "extendedStrongs": "G1484",
+      "Hebrew_Greek": "ἔθνος",
+      "ESV_translation": "nations",
+      "NIV_translation": "nations",
+      "KJV_translation": "Gentiles",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Act.7.45"]
+    },
+
+    {
+      "translatedUnique": "Gentile@Gen.10.5",
+      "extendedStrongs": "G1484",
+      "Hebrew_Greek": "ἔθνος",
+      "ESV_translation": "people",
+      "NIV_translation": "people",
+      "KJV_translation": "Gentiles",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Act.13.42"]
+    },
+
+    {
+      "translatedUnique": "Gentile@Gen.10.5",
+      "extendedStrongs": "G1484",
+      "Hebrew_Greek": "ἔθνος",
+      "ESV_translation": "pagans",
+      "NIV_translation": "pagans",
+      "KJV_translation": "Gentiles",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["1Co.5.1", "1Co.10.21"]
+    },
+
+    {
+      "translatedUnique": "Gentile@Gen.10.5",
+      "extendedStrongs": "G1484",
+      "Hebrew_Greek": "ἔθνος",
+      "ESV_translation": "[ ]",
+      "NIV_translation": "[ ]",
+      "KJV_translation": "Gentiles",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["2Ti.1.11"]
+    }
+
+]},
+{
+  "uniqueName": "Gittith@Psa.8.1",
+  "description": "A musical term",
+   "names": [
+    {
+      "translatedUnique": "Gittith@Psa.8.1",
+      "extendedStrongs": "H1665",
+      "Hebrew_Greek": "גִּתִּית",
+      "ESV_translation": "Gittith",
+      "NIV_translation": "Gittith",
+      "KJV_translation": "Gittith",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Psa.8.1", "Psa.81.1", "Psa.84.1"]
+    }
+
+]},
+{
+  "uniqueName": "God@Gen.1.1",
+  "description": "The deity",
+   "names": [
+    {
+      "translatedUnique": "Elohim|God@Gen.1.1",
+      "extendedStrongs": "H0430",
+      "Hebrew_Greek": "אֱלֹהִים",
+      "ESV_translation": "God",
+      "NIV_translation": "God",
+      "KJV_translation": "Elohim",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["1Sa.10.5"]
+    },
+
+    {
+      "translatedUnique": "LORD|God@Gen.1.1",
+      "extendedStrongs": "H3068",
+      "Hebrew_Greek": "יהוה",
+      "ESV_translation": "LORD",
+      "NIV_translation": "LORD",
+      "KJV_translation": "LORD",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Gen.2.4", "Etc.0.0"]
+    },
+
+    {
+      "translatedUnique": "LORD|God@Gen.1.1",
+      "extendedStrongs": "H3068",
+      "Hebrew_Greek": "יהוה",
+      "ESV_translation": "LORD",
+      "NIV_translation": "LORD",
+      "KJV_translation": "Jehovah",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Gen.22.14", "Exo.6.3", "Exo.17.15", "Jdg.6.24", "Psa.83.18", "Isa.12.2", "Isa.26.4"]
+    },
+
+    {
+      "translatedUnique": "LORD|God@Gen.1.1",
+      "extendedStrongs": "H3050",
+      "Hebrew_Greek": "יָהּ",
+      "ESV_translation": "LORD",
+      "NIV_translation": "LORD",
+      "KJV_translation": "LORD",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Exo.15.2", "Exo.17.16", "Psa.68.4", "Psa.68.18", "Psa.77.11", "Psa.89.8", "Psa.94.7", "Psa.94.12", "Psa.102.18", "Psa.104.35", "Psa.105.45", "Psa.106.48", "Psa.111.1", "Psa.112.1", "Psa.113.1", "Psa.113.9", "Psa.115.17", "Psa.115.18", "Psa.115.18", "Psa.116.19", "Psa.117.2", "Psa.118.5", "Psa.118.5", "Psa.118.14", "Psa.118.17", "Psa.118.18", "Psa.118.19", "Psa.122.4", "Psa.130.3", "Psa.135.1", "Psa.135.3", "Psa.135.4", "Psa.135.21", "Psa.146.1", "Psa.146.10", "Psa.147.1", "Psa.147.20", "Psa.148.1", "Psa.148.14", "Psa.149.1", "Psa.149.9", "Psa.150.1", "Psa.150.6", "Psa.150.6", "Isa.12.2", "Isa.26.4", "Isa.38.11", "Isa.38.11"]
+    },
+
+    {
+      "translatedUnique": "Lord|God@Gen.1.1",
+      "extendedStrongs": "H0136",
+      "Hebrew_Greek": "אֲדֹנָי",
+      "ESV_translation": "Lord",
+      "NIV_translation": "Lord",
+      "KJV_translation": "Lord",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Gen.15.2", "Gen.15.8", "Gen.18.27", "Gen.18.30", "Gen.18.31", "Gen.18.32", "Gen.19.18", "Gen.20.4", "Exo.4.10", "Exo.4.13", "Exo.5.22", "Exo.15.17", "Exo.34.9", "Num.14.17", "Deu.3.24", "Deu.9.26", "Jos.3.11", "Jos.3.13", "Jos.7.7", "Jos.7.8", "Jdg.6.15", "Jdg.6.22", "Jdg.13.8", "Jdg.16.28", "2Sa.7.18", "2Sa.7.19", "2Sa.7.19", "2Sa.7.20", "2Sa.7.22", "2Sa.7.28", "2Sa.7.29", "1Ki.2.26", "1Ki.3.10", "1Ki.3.15", "1Ki.8.53", "1Ki.22.6", "2Ki.7.6", "2Ki.19.23", "Ezr.10.3", "Neh.1.11", "Neh.4.14", "Job.28.28", "Psa.2.4", "Psa.16.2", "Psa.22.30", "Psa.30.8", "Psa.35.17", "Psa.35.22", "Psa.35.23", "Psa.37.13", "Psa.38.9", "Psa.38.15", "Psa.38.22", "Psa.39.7", "Psa.40.17", "Psa.44.23", "Psa.51.15", "Psa.54.4", "Psa.55.9", "Psa.57.9", "Psa.59.11", "Psa.62.12", "Psa.66.18", "Psa.68.11", "Psa.68.17", "Psa.68.19", "Psa.68.20", "Psa.68.22", "Psa.68.32", "Psa.69.6", "Psa.71.5", "Psa.71.16", "Psa.73.20", "Psa.73.28", "Psa.77.2", "Psa.77.7", "Psa.78.65", "Psa.79.12", "Psa.86.3", "Psa.86.4", "Psa.86.5", "Psa.86.8", "Psa.86.9", "Psa.86.12", "Psa.86.15", "Psa.89.49", "Psa.89.50", "Psa.90.1", "Psa.90.17", "Psa.109.21", "Psa.110.5", "Psa.130.2", "Psa.130.3", "Psa.130.6", "Psa.140.7", "Psa.141.8", "Isa.3.15", "Isa.3.17", "Isa.3.18", "Isa.4.4", "Isa.6.1", "Isa.6.8", "Isa.6.11", "Isa.7.7", "Isa.7.14", "Isa.7.20", "Isa.8.7", "Isa.9.8", "Isa.9.17", "Isa.10.12", "Isa.10.23", "Isa.10.24", "Isa.11.11", "Isa.21.6", "Isa.21.8", "Isa.21.16", "Isa.22.5", "Isa.22.12", "Isa.22.14", "Isa.22.15", "Isa.25.8", "Isa.28.2", "Isa.28.16", "Isa.28.22", "Isa.29.13", "Isa.30.15", "Isa.30.20", "Isa.37.24", "Isa.38.14", "Isa.38.16", "Isa.40.10", "Isa.48.16", "Isa.49.14", "Isa.49.22", "Isa.50.4", "Isa.50.5", "Isa.50.7", "Isa.50.9", "Isa.52.4", "Isa.56.8", "Isa.61.1", "Isa.61.11", "Isa.65.13", "Isa.65.15", "Jer.1.6", "Jer.2.19", "Jer.2.22", "Jer.4.10", "Jer.7.20", "Jer.14.13", "Jer.32.17", "Jer.32.25", "Jer.44.26", "Jer.46.10", "Jer.46.10", "Jer.49.5", "Jer.50.25", "Jer.50.31", "Lam.1.14", "Lam.1.15", "Lam.1.15", "Lam.2.1", "Lam.2.2", "Lam.2.5", "Lam.2.7", "Lam.2.18", "Lam.2.19", "Lam.2.20", "Lam.3.31", "Lam.3.36", "Lam.3.37", "Lam.3.58", "Ezk.2.4", "Ezk.3.11", "Ezk.3.27", "Ezk.4.14", "Ezk.5.5", "Ezk.5.7", "Ezk.5.8", "Ezk.5.11", "Ezk.6.3", "Ezk.6.3", "Ezk.6.11", "Ezk.7.2", "Ezk.7.5", "Ezk.8.1", "Ezk.9.8", "Ezk.11.7", "Ezk.11.8", "Ezk.11.13", "Ezk.11.16", "Ezk.11.17", "Ezk.11.21", "Ezk.12.10", "Ezk.12.19", "Ezk.12.23", "Ezk.12.25", "Ezk.12.28", "Ezk.12.28", "Ezk.13.3", "Ezk.13.8", "Ezk.13.8", "Ezk.13.9", "Ezk.13.13", "Ezk.13.16", "Ezk.13.18", "Ezk.13.20", "Ezk.14.4", "Ezk.14.6", "Ezk.14.11", "Ezk.14.14", "Ezk.14.16", "Ezk.14.18", "Ezk.14.20", "Ezk.14.21", "Ezk.14.23", "Ezk.15.6", "Ezk.15.8", "Ezk.16.3", "Ezk.16.8", "Ezk.16.14", "Ezk.16.19", "Ezk.16.23", "Ezk.16.30", "Ezk.16.36", "Ezk.16.43", "Ezk.16.48", "Ezk.16.59", "Ezk.16.63", "Ezk.17.3", "Ezk.17.9", "Ezk.17.16", "Ezk.17.19", "Ezk.17.22", "Ezk.18.3", "Ezk.18.9", "Ezk.18.23", "Ezk.18.25", "Ezk.18.29", "Ezk.18.30", "Ezk.18.32", "Ezk.20.3", "Ezk.20.3", "Ezk.20.5", "Ezk.20.27", "Ezk.20.30", "Ezk.20.31", "Ezk.20.33", "Ezk.20.36", "Ezk.20.39", "Ezk.20.40", "Ezk.20.44", "Ezk.20.47", "Ezk.20.49", "Ezk.21.7", "Ezk.21.9", "Ezk.21.13", "Ezk.21.24", "Ezk.21.26", "Ezk.21.28", "Ezk.22.3", "Ezk.22.12", "Ezk.22.19", "Ezk.22.28", "Ezk.22.31", "Ezk.23.22", "Ezk.23.28", "Ezk.23.32", "Ezk.23.34", "Ezk.23.35", "Ezk.23.46", "Ezk.23.49", "Ezk.24.3", "Ezk.24.6", "Ezk.24.9", "Ezk.24.14", "Ezk.24.21", "Ezk.24.24", "Ezk.25.3", "Ezk.25.3", "Ezk.25.6", "Ezk.25.8", "Ezk.25.12", "Ezk.25.13", "Ezk.25.14", "Ezk.25.15", "Ezk.25.16", "Ezk.26.3", "Ezk.26.5", "Ezk.26.7", "Ezk.26.14", "Ezk.26.15", "Ezk.26.19", "Ezk.26.21", "Ezk.27.3", "Ezk.28.2", "Ezk.28.6", "Ezk.28.10", "Ezk.28.12", "Ezk.28.22", "Ezk.28.24", "Ezk.28.25", "Ezk.29.3", "Ezk.29.8", "Ezk.29.13", "Ezk.29.16", "Ezk.29.19", "Ezk.29.20", "Ezk.30.2", "Ezk.30.6", "Ezk.30.10", "Ezk.30.13", "Ezk.30.22", "Ezk.31.10", "Ezk.31.15", "Ezk.31.18", "Ezk.32.3", "Ezk.32.8", "Ezk.32.11", "Ezk.32.14", "Ezk.32.16", "Ezk.32.31", "Ezk.32.32", "Ezk.33.11", "Ezk.33.17", "Ezk.33.20", "Ezk.33.25", "Ezk.33.27", "Ezk.34.2", "Ezk.34.8", "Ezk.34.10", "Ezk.34.11", "Ezk.34.15", "Ezk.34.17", "Ezk.34.20", "Ezk.34.30", "Ezk.34.31", "Ezk.35.3", "Ezk.35.6", "Ezk.35.11", "Ezk.35.14", "Ezk.36.2", "Ezk.36.3", "Ezk.36.4", "Ezk.36.4", "Ezk.36.5", "Ezk.36.6", "Ezk.36.7", "Ezk.36.13", "Ezk.36.14", "Ezk.36.15", "Ezk.36.22", "Ezk.36.23", "Ezk.36.32", "Ezk.36.33", "Ezk.36.37", "Ezk.37.3", "Ezk.37.5", "Ezk.37.9", "Ezk.37.12", "Ezk.37.19", "Ezk.37.21", "Ezk.38.3", "Ezk.38.10", "Ezk.38.14", "Ezk.38.17", "Ezk.38.18", "Ezk.38.21", "Ezk.39.1", "Ezk.39.5", "Ezk.39.8", "Ezk.39.10", "Ezk.39.13", "Ezk.39.17", "Ezk.39.20", "Ezk.39.25", "Ezk.39.29", "Ezk.43.18", "Ezk.43.19", "Ezk.43.27", "Ezk.44.6", "Ezk.44.9", "Ezk.44.12", "Ezk.44.15", "Ezk.44.27", "Ezk.45.9", "Ezk.45.9", "Ezk.45.15", "Ezk.45.18", "Ezk.46.1", "Ezk.46.16", "Ezk.47.13", "Ezk.47.23", "Ezk.48.29", "Dan.1.2", "Dan.9.3", "Dan.9.4", "Dan.9.7", "Dan.9.9", "Dan.9.15", "Dan.9.16", "Dan.9.17", "Dan.9.19", "Dan.9.19", "Dan.9.19", "Amo.1.8", "Amo.3.7", "Amo.3.8", "Amo.3.11", "Amo.3.13", "Amo.4.2", "Amo.4.5", "Amo.5.3", "Amo.5.16", "Amo.6.8", "Amo.7.1", "Amo.7.2", "Amo.7.4", "Amo.7.4", "Amo.7.5", "Amo.7.6", "Amo.7.7", "Amo.7.8", "Amo.8.1", "Amo.8.3", "Amo.8.9", "Amo.8.11", "Amo.9.1", "Amo.9.5", "Amo.9.8", "Oba.1.1", "Mic.1.2", "Mic.1.2", "Hab.3.19", "Zep.1.7", "Zec.9.4", "Zec.9.14", "Mal.1.12", "Mal.1.14"]
+    },
+
+    {
+      "translatedUnique": "Almighty|God@Gen.1.1",
+      "extendedStrongs": "H7706",
+      "Hebrew_Greek": "שַׁדַּי",
+      "ESV_translation": "Almighty",
+      "NIV_translation": "Almighty",
+      "KJV_translation": "Almighty",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Gen.17.1", "Gen.28.3", "Gen.35.11", "Gen.43.14", "Gen.48.3", "Gen.49.25", "Exo.6.3", "Num.24.4", "Num.24.16", "Rut.1.20", "Rut.1.21", "Job.5.17", "Job.6.4", "Job.6.14", "Job.8.3", "Job.8.5", "Job.11.7", "Job.13.3", "Job.15.25", "Job.21.15", "Job.21.20", "Job.22.3", "Job.22.17", "Job.22.23", "Job.22.25", "Job.22.26", "Job.23.16", "Job.24.1", "Job.27.2", "Job.27.10", "Job.27.11", "Job.27.13", "Job.29.5", "Job.31.2", "Job.31.35", "Job.32.8", "Job.33.4", "Job.34.10", "Job.34.12", "Job.35.13", "Job.37.23", "Job.40.2", "Psa.68.14", "Psa.91.1", "Isa.13.6", "Ezk.1.24", "Ezk.10.5", "Jol.1.15"]
+    },
+
+    {
+      "translatedUnique": "Hosts|God@Gen.1.1",
+      "extendedStrongs": "H6635b",
+      "Hebrew_Greek": "צָבָא",
+      "ESV_translation": "Hosts",
+      "NIV_translation": "Almighty",
+      "KJV_translation": "Hosts",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["1Sa.1.3", "1Sa.1.11", "1Sa.4.4", "1Sa.15.2", "1Sa.17.45", "2Sa.5.10", "2Sa.6.2", "2Sa.6.18", "2Sa.7.8", "2Sa.7.26", "2Sa.7.27", "1Ki.18.15", "1Ki.19.10", "1Ki.19.14", "2Ki.3.14", "1Ch.11.9", "1Ch.17.7", "1Ch.17.24", "1Ch.27.3", "Psa.24.10", "Psa.46.7", "Psa.46.11", "Psa.48.8", "Psa.59.5", "Psa.68.12", "Psa.69.6", "Psa.80.4", "Psa.80.7", "Psa.80.14", "Psa.80.19", "Psa.84.1", "Psa.84.3", "Psa.84.8", "Psa.84.12", "Psa.89.8", "Isa.1.9", "Isa.1.24", "Isa.2.12", "Isa.3.1", "Isa.3.15", "Isa.5.7", "Isa.5.9", "Isa.5.16", "Isa.5.24", "Isa.6.3", "Isa.6.5", "Isa.8.13", "Isa.8.18", "Isa.9.7", "Isa.9.13", "Isa.9.19", "Isa.10.16", "Isa.10.23", "Isa.10.24", "Isa.10.26", "Isa.10.33", "Isa.13.4", "Isa.13.13", "Isa.14.22", "Isa.14.23", "Isa.14.24", "Isa.14.27", "Isa.17.3", "Isa.18.7", "Isa.18.7", "Isa.19.4", "Isa.19.12", "Isa.19.16", "Isa.19.17", "Isa.19.18", "Isa.19.20", "Isa.19.25", "Isa.21.10", "Isa.22.5", "Isa.22.12", "Isa.22.14", "Isa.22.14", "Isa.22.15", "Isa.22.25", "Isa.23.9", "Isa.24.23", "Isa.25.6", "Isa.28.5", "Isa.28.22", "Isa.28.29", "Isa.29.6", "Isa.31.4", "Isa.31.5", "Isa.37.16", "Isa.37.32", "Isa.39.5", "Isa.44.6", "Isa.45.13", "Isa.47.4", "Isa.48.2", "Isa.51.15", "Isa.54.5", "Jer.2.19", "Jer.5.14", "Jer.6.6", "Jer.6.9", "Jer.7.3", "Jer.7.21", "Jer.8.3", "Jer.9.7", "Jer.9.15", "Jer.9.17", "Jer.10.16", "Jer.11.17", "Jer.11.20", "Jer.11.22", "Jer.15.16", "Jer.16.9", "Jer.19.3", "Jer.19.11", "Jer.19.15", "Jer.20.12", "Jer.23.15", "Jer.23.16", "Jer.23.36", "Jer.25.8", "Jer.25.27", "Jer.25.28", "Jer.25.29", "Jer.25.32", "Jer.26.18", "Jer.27.4", "Jer.27.18", "Jer.27.19", "Jer.27.21", "Jer.28.2", "Jer.28.14", "Jer.29.4", "Jer.29.8", "Jer.29.17", "Jer.29.21", "Jer.29.25", "Jer.30.8", "Jer.31.23", "Jer.31.35", "Jer.32.14", "Jer.32.15", "Jer.32.18", "Jer.33.11", "Jer.33.12", "Jer.35.13", "Jer.35.17", "Jer.35.18", "Jer.35.19", "Jer.38.17", "Jer.39.16", "Jer.42.15", "Jer.42.18", "Jer.43.10", "Jer.44.2", "Jer.44.7", "Jer.44.11", "Jer.44.25", "Jer.46.10", "Jer.46.10", "Jer.46.18", "Jer.46.25", "Jer.48.1", "Jer.48.15", "Jer.49.5", "Jer.49.7", "Jer.49.26", "Jer.49.35", "Jer.50.18", "Jer.50.25", "Jer.50.31", "Jer.50.33", "Jer.50.34", "Jer.51.5", "Jer.51.14", "Jer.51.19", "Jer.51.33", "Jer.51.57", "Jer.51.58", "Hos.12.5", "Amo.4.13", "Amo.5.14", "Amo.5.15", "Amo.5.16", "Amo.5.27", "Amo.6.8", "Amo.6.14", "Amo.9.5", "Mic.4.4", "Nam.2.13", "Nam.3.5", "Hab.2.13", "Zep.2.9", "Zep.2.10", "Hag.1.2", "Hag.1.5", "Hag.1.7", "Hag.1.9", "Hag.1.14", "Hag.2.4", "Hag.2.6", "Hag.2.7", "Hag.2.8", "Hag.2.9", "Hag.2.9", "Hag.2.11", "Hag.2.23", "Hag.2.23", "Zec.1.3", "Zec.1.3", "Zec.1.3", "Zec.1.4", "Zec.1.6", "Zec.1.12", "Zec.1.14", "Zec.1.16", "Zec.1.17", "Zec.2.8", "Zec.2.9", "Zec.2.11", "Zec.3.7", "Zec.3.9", "Zec.3.10", "Zec.4.6", "Zec.4.9", "Zec.5.4", "Zec.6.12", "Zec.6.15", "Zec.7.3", "Zec.7.4", "Zec.7.9", "Zec.7.12", "Zec.7.12", "Zec.7.13", "Zec.8.1", "Zec.8.2", "Zec.8.3", "Zec.8.4", "Zec.8.6", "Zec.8.6", "Zec.8.7", "Zec.8.9", "Zec.8.9", "Zec.8.11", "Zec.8.14", "Zec.8.14", "Zec.8.18", "Zec.8.19", "Zec.8.20", "Zec.8.21", "Zec.8.22", "Zec.8.23", "Zec.9.15", "Zec.10.3", "Zec.12.5", "Zec.13.2", "Zec.13.7", "Zec.14.16", "Zec.14.17", "Zec.14.21", "Zec.14.21", "Mal.1.4", "Mal.1.6", "Mal.1.8", "Mal.1.9", "Mal.1.10", "Mal.1.11", "Mal.1.13", "Mal.1.14", "Mal.2.2", "Mal.2.4", "Mal.2.7", "Mal.2.8", "Mal.2.12", "Mal.2.16", "Mal.3.1", "Mal.3.5", "Mal.3.7", "Mal.3.10", "Mal.3.11", "Mal.3.12", "Mal.3.14", "Mal.3.17", "Mal.4.1", "Mal.4.3"]
+    },
+
+    {
+      "translatedUnique": "Hosts|God@Gen.1.1",
+      "extendedStrongs": "G4519",
+      "Hebrew_Greek": "σαβαώθ",
+      "ESV_translation": "hosts",
+      "NIV_translation": "Almighty",
+      "KJV_translation": "sabaoth",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Rom.9.29", "Jas.5.4"]
+    },
+
+    {
+      "translatedUnique": "Banner|God@Gen.1.1",
+      "extendedStrongs": "H5251",
+      "Hebrew_Greek": "נֵס",
+      "ESV_translation": "Banner",
+      "NIV_translation": "Banner",
+      "KJV_translation": "Nissi",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Exo.17.15"]
+    },
+
+    {
+      "translatedUnique": "Peace|God@Gen.1.1",
+      "extendedStrongs": "H3073",
+      "Hebrew_Greek": "שָׁלוֹם",
+      "ESV_translation": "Peace",
+      "NIV_translation": "Peace",
+      "KJV_translation": "Shalom",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Jdg.6.24"]
+    },
+
+    {
+      "translatedUnique": "Provider|God@Gen.1.1",
+      "extendedStrongs": "H3070",
+      "Hebrew_Greek": "יִרְאֶה",
+      "ESV_translation": "Provider",
+      "NIV_translation": "Provider",
+      "KJV_translation": "Jireh",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Gen.22.14"]
+    },
+
+    {
+      "translatedUnique": "Highest|God@Gen.1.1",
+      "extendedStrongs": "H5945b",
+      "Hebrew_Greek": "עֶלְיוֹן",
+      "ESV_translation": "Most High",
+      "NIV_translation": "Most High",
+      "KJV_translation": "Most High",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Gen.14.18", "Gen.14.19", "Gen.14.20", "Gen.14.22", "Num.24.16", "Deu.32.8", "2Sa.22.14", "Psa.7.17", "Psa.9.2", "Psa.21.7", "Psa.46.4", "Psa.47.2", "Psa.50.14", "Psa.57.2", "Psa.73.11", "Psa.77.10", "Psa.78.17", "Psa.78.56", "Psa.82.6", "Psa.83.18", "Psa.91.1", "Psa.91.9", "Psa.92.1", "Psa.107.11", "Isa.14.14", "Lam.3.35", "Lam.3.38"]
+    },
+
+    {
+      "translatedUnique": "Highest|God@Gen.1.1",
+      "extendedStrongs": "H5945b",
+      "Hebrew_Greek": "עֶלְיוֹן",
+      "ESV_translation": "Most High",
+      "NIV_translation": "Most High",
+      "KJV_translation": "Highest",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Psa.18.13", "Psa.87.5"]
+    },
+
+    {
+      "translatedUnique": "Highest|God@Gen.1.1",
+      "extendedStrongs": "H5945b",
+      "Hebrew_Greek": "עֶלְיוֹן",
+      "ESV_translation": "Most High",
+      "NIV_translation": "Most High",
+      "KJV_translation": "high",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Psa.78.35"]
+    },
+
+    {
+      "translatedUnique": "Righteousness|God@Gen.1.1",
+      "extendedStrongs": "H6664",
+      "Hebrew_Greek": "צֶ֫דֶק",
+      "ESV_translation": "Righteousness",
+      "NIV_translation": "Righteous Saviour",
+      "KJV_translation": "Righteousness",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Jer.23.6", "Jer.33.16"]
+    },
+
+    {
+      "translatedUnique": "Everlasting|God@Gen.1.1",
+      "extendedStrongs": "H5769",
+      "Hebrew_Greek": "עוֹלָם",
+      "ESV_translation": "Everlasting",
+      "NIV_translation": "Eternal",
+      "KJV_translation": "Everlasting",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Gen.21.33"]
+    },
+
+    {
+      "translatedUnique": "Jealous|God@Gen.1.1",
+      "extendedStrongs": "H7067",
+      "Hebrew_Greek": "קַנָּא",
+      "ESV_translation": "Jealous",
+      "NIV_translation": "Jealous",
+      "KJV_translation": "Jealous",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Exo.34.14"]
+    }
+
+]},
+{
+  "uniqueName": "Hell@Gen.37.35",
+  "description": "A non-physical place",
+   "names": [
+    {
+      "translatedUnique": "Gehenna|Hell@Gen.37.35",
+      "extendedStrongs": "G1067",
+      "Hebrew_Greek": "γέεννα",
+      "ESV_translation": "hell",
+      "NIV_translation": "hell",
+      "KJV_translation": "hell",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mat.5.22", "Mat.5.29", "Mat.5.30", "Mat.10.28", "Mat.18.9", "Mat.23.25", "Mat.23.33", "Mrk.9.43", "Mrk.9.45", "Mrk.9.47", "Luk.12.5", "Jas.3.6"]
+    },
+
+    {
+      "translatedUnique": "Tartarus|Hell@Gen.37.35",
+      "extendedStrongs": "G5020",
+      "Hebrew_Greek": "ταρταρόω",
+      "ESV_translation": "hell",
+      "NIV_translation": "hell",
+      "KJV_translation": "hell",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["2Pe.2.4"]
+    },
+
+    {
+      "translatedUnique": "Hades|Hell@Gen.37.35",
+      "extendedStrongs": "G0086",
+      "Hebrew_Greek": "ᾍδης",
+      "ESV_translation": "Hades",
+      "NIV_translation": "Hades",
+      "KJV_translation": "Hades",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mat.11.23", "Luk.10.15", "Luk.16.23", "Act.2.27", "Act.2.31", "Rev.1.18", "Rev.6.8", "Rev.20.13", "Rev.20.14"]
+    },
+
+    {
+      "translatedUnique": "Sheol|Hell@Gen.37.35",
+      "extendedStrongs": "H7585",
+      "Hebrew_Greek": "שְׁאוֹל",
+      "ESV_translation": "Sheol",
+      "NIV_translation": "Sheol",
+      "KJV_translation": "Sheol",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Gen.37.35", "Gen.42.38", "Gen.44.29", "Gen.44.31", "Num.16.30", "Num.16.33", "Deu.32.22", "1Sa.2.6", "2Sa.22.6", "1Ki.2.6", "1Ki.2.9", "Job.7.9", "Job.11.8", "Job.14.13", "Job.17.13", "Job.17.16", "Job.21.13", "Job.24.19", "Job.26.6", "Psa.6.5", "Psa.9.17", "Psa.16.10", "Psa.18.5", "Psa.30.3", "Psa.31.17", "Psa.49.14a", "Psa.49.14b", "Psa.49.15", "Psa.55.15", "Psa.86.13", "Psa.88.3", "Psa.89.48", "Psa.116.3", "Psa.139.8", "Psa.141.7", "Pro.1.12", "Pro.5.5", "Pro.7.27", "Pro.9.18", "Pro.15.11", "Pro.15.24", "Pro.23.14", "Pro.27.20", "Pro.30.16", "Ecc.9.10", "Sng.8.6", "Isa.5.14", "Isa.14.9", "Isa.14.11", "Isa.14.15", "Isa.28.15", "Isa.28.18", "Isa.38.10", "Isa.38.18", "Isa.57.9", "Ezk.31.15", "Ezk.31.16", "Ezk.31.17", "Ezk.32.21", "Ezk.32.27", "Hos.13.14a", "Hos.13.14b", "Amo.9.2", "Jon.2.2", "Hab.2.5"]
+    },
+
+    {
+      "translatedUnique": "Pit|Hell@Gen.37.35",
+      "extendedStrongs": "H7845",
+      "Hebrew_Greek": "שַׁ֫חַת",
+      "ESV_translation": "Pit",
+      "NIV_translation": "Pit",
+      "KJV_translation": "Pit",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Job.33.18", "Job.33.22", "Job.33.24", "Job.33.28", "Job.33.30", "Psa.16.10", "Psa.30.9", "Psa.49.9", "Psa.55.23", "Psa.103.4", "Isa.38.17", "Isa.51.14", "Ezk.28.8", "Jon.2.6"]
+    }
+
+]},
+{
+  "uniqueName": "Higgaion@Psa.9.16",
+  "description": "A musical term",
+   "names": [
+    {
+      "translatedUnique": "Higgaion@Psa.9.16",
+      "extendedStrongs": "H1902",
+      "Hebrew_Greek": "הִגָּיוֹן",
+      "ESV_translation": "Higgaion",
+      "NIV_translation": "Higgaion",
+      "KJV_translation": "Higgaion",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Psa.9.16"]
+    }
+
+]},
+{
+  "uniqueName": "Hosanna@Mat.21.9",
+  "description": "Name of a chant",
+   "names": [
+    {
+      "translatedUnique": "Hosanna@Mat.21.9",
+      "extendedStrongs": "G5614",
+      "Hebrew_Greek": "ὡσαννά",
+      "ESV_translation": "Hosanna",
+      "NIV_translation": "Hosanna",
+      "KJV_translation": "Hosanna",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mat.21.9a", "Mat.21.9b", "Mat.21.15", "Mrk.11.9", "Mrk.11.10", "Jhn.12.13"]
+    }
+
+]},
+{
+  "uniqueName": "Jachin@1Ki.7.21",
+  "description": "A pillar in temple",
+   "names": [
+    {
+      "translatedUnique": "Jachin@1Ki.7.21",
+      "extendedStrongs": "H3199",
+      "Hebrew_Greek": "יָכִין",
+      "ESV_translation": "Jachin",
+      "NIV_translation": "Jachin",
+      "KJV_translation": "Jachin",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["1Ki.7.21", "2Ch.3.17"]
+    }
+
+]},
+{
+  "uniqueName": "Jonath-elem-rechokim@Psa.56.1",
+  "description": "A musical term",
+   "names": [
+    {
+      "translatedUnique": "Dove_on_Far-off_Terebinths|Jonath-elem-rechokim@Psa.56.1",
+      "extendedStrongs": "H3128",
+      "Hebrew_Greek": "יוֹנַת אֵלֶם רְחֹקִים",
+      "ESV_translation": "Dove on Far-off Terebinths",
+      "NIV_translation": "Dove on distant oaks",
+      "KJV_translation": "Jonath-elem-rechokim",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Psa.56.1"]
+    }
+
+]},
+{
+  "uniqueName": "Judaism@Gal.1.13",
+  "description": "A religion",
+   "names": [
+    {
+      "translatedUnique": "Judaism@Gal.1.13",
+      "extendedStrongs": "G2454",
+      "Hebrew_Greek": "Ἰουδαϊσμός",
+      "ESV_translation": "Judaism",
+      "NIV_translation": "Judaism",
+      "KJV_translation": "Judaism",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Gal.1.13", "Gal.1.14"]
+    }
+
+]},
+{
+  "uniqueName": "Kiyyun@Amo.5.26",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Kiyyun@Amo.5.26",
+      "extendedStrongs": "H3594",
+      "Hebrew_Greek": "כִּיּוּן",
+      "ESV_translation": "Kiyyun",
+      "NIV_translation": "Kiyyun",
+      "KJV_translation": "Kiyyun",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Amo.5.26"]
+    }
+
+]},
+{
+  "uniqueName": "Legion@Mrk.5.9",
+  "description": "Group of demons",
+   "names": [
+    {
+      "translatedUnique": "Legion@Mrk.5.9",
+      "extendedStrongs": "G3003",
+      "Hebrew_Greek": "λεγεών",
+      "ESV_translation": "Legion",
+      "NIV_translation": "Legion",
+      "KJV_translation": "Legion",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mrk.5.9", "Luk.8.30"]
+    }
+
+]},
+{
+  "uniqueName": "Leviathan@Job.3.8",
+  "description": "A monster",
+   "names": [
+    {
+      "translatedUnique": "Leviathan@Job.3.8",
+      "extendedStrongs": "H3882",
+      "Hebrew_Greek": "לִוְיָתָן",
+      "ESV_translation": "Leviathan",
+      "NIV_translation": "Leviathan",
+      "KJV_translation": "Leviathan",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Job.3.8", "Job.41.1", "Psa.74.14", "Psa.104.26", "Isa.27.1a", "Isa.27.1b "]
+    }
+
+]},
+{
+  "uniqueName": "Lucifer@Isa.14.12",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Day_Star|Lucifer@Isa.14.12",
+      "extendedStrongs": "H1966",
+      "Hebrew_Greek": "הֵילֵל",
+      "ESV_translation": "Day Star",
+      "NIV_translation": "morning star",
+      "KJV_translation": "Lucifer",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Isa.14.12"]
+    }
+
+]},
+{
+  "uniqueName": "Mahalath@Psa.53.1",
+  "description": "A musical term",
+   "names": [
+    {
+      "translatedUnique": "Mahalath@Psa.53.1",
+      "extendedStrongs": "H4257",
+      "Hebrew_Greek": "מַחֲלַת",
+      "ESV_translation": "Mahalath",
+      "NIV_translation": "Mahalath",
+      "KJV_translation": "Mahalath",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Psa.53.1", "Psa.88.1"]
+    }
+
+]},
+{
+  "uniqueName": "Maskil@Psa.32.1",
+  "description": "A musical term",
+   "names": [
+    {
+      "translatedUnique": "Maskil@Psa.32.1",
+      "extendedStrongs": "H4905",
+      "Hebrew_Greek": "מַשְׂכִּיל",
+      "ESV_translation": "Maskil",
+      "NIV_translation": "Maskil",
+      "KJV_translation": "Maskil",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Psa.32.1", "Psa.42.1", "Psa.44.1", "Psa.45.1", "Psa.47.8", "Psa.52.1", "Psa.53.1", "Psa.54.1", "Psa.55.1", "Psa.74.1", "Psa.78.1", "Psa.88.1", "Psa.89.1", "Psa.142.1"]
+    }
+
+]},
+{
+  "uniqueName": "Mazzaroth@Job.38.32",
+  "description": "A star or constellation",
+   "names": [
+    {
+      "translatedUnique": "Mazzaroth@Job.38.32",
+      "extendedStrongs": "H4216",
+      "Hebrew_Greek": "מַזָּרוֹת",
+      "ESV_translation": "Mazzaroth",
+      "NIV_translation": "Mazzaroth",
+      "KJV_translation": "Mazzaroth",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Job.38.32"]
+    }
+
+]},
+{
+  "uniqueName": "Merodach@Jer.50.2",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Merodach@Jer.50.2",
+      "extendedStrongs": "H4781",
+      "Hebrew_Greek": "מְרֹדָךְ",
+      "ESV_translation": "Merodach",
+      "NIV_translation": "Merodach",
+      "KJV_translation": "Merodach",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Jer.50.2"]
+    }
+
+]},
+{
+  "uniqueName": "Messiah@Jhn.1.41",
+  "description": "Title of a leader",
+   "names": [
+    {
+      "translatedUnique": "Messiah@Jhn.1.41",
+      "extendedStrongs": "G3323",
+      "Hebrew_Greek": "Μεσσίας",
+      "ESV_translation": "Messiah",
+      "NIV_translation": "Messiah",
+      "KJV_translation": "Messiah",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Jhn.1.41", "Jhn.4.25"]
+    }
+
+]},
+{
+  "uniqueName": "Miktam@Psa.16.1",
+  "description": "A musical term",
+   "names": [
+    {
+      "translatedUnique": "Miktam@Psa.16.1",
+      "extendedStrongs": "H4387",
+      "Hebrew_Greek": "מִכְתָּם",
+      "ESV_translation": "Miktam",
+      "NIV_translation": "Miktam",
+      "KJV_translation": "Miktam",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Psa.16.1", "Psa.56.1", "Psa.57.1", "Psa.58.1", "Psa.59.1", "Psa.60.1"]
+    }
+
+]},
+{
+  "uniqueName": "Molech@Lev.18.21",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Milcom|Molech@Lev.18.21",
+      "extendedStrongs": "H4428",
+      "Hebrew_Greek": "מֶ֫לֶךְ",
+      "ESV_translation": "Milcom",
+      "NIV_translation": "Molek",
+      "KJV_translation": "their king",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Jer.49.1", "Jer.49.3"]
+    },
+
+    {
+      "translatedUnique": "Milcom|Molech@Lev.18.21",
+      "extendedStrongs": "H4428",
+      "Hebrew_Greek": "מֶ֫לֶךְ",
+      "ESV_translation": "Milcom",
+      "NIV_translation": "Molek",
+      "KJV_translation": "Malcham",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Zep.1.5"]
+    },
+
+    {
+      "translatedUnique": "Milcom|Molech@Lev.18.21",
+      "extendedStrongs": "H4445b",
+      "Hebrew_Greek": "מִלכֹּם",
+      "ESV_translation": "Milcom",
+      "NIV_translation": "Molek",
+      "KJV_translation": "Milcom",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["1Ki.11.5", "1Ki.11.33", "2Ki.23.13"]
+    },
+
+    {
+      "translatedUnique": "Molech@Lev.18.21",
+      "extendedStrongs": "H4432",
+      "Hebrew_Greek": "מֹ֫לֶךְ",
+      "ESV_translation": "Molech",
+      "NIV_translation": "Molek",
+      "KJV_translation": "Molech",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Lev.18.21", "Lev.20.2", "Lev.20.3", "Lev.20.4", "Lev.20.5", "1Ki.11.7", "2Ki.23.10", "Jer.32.35"]
+    },
+
+    {
+      "translatedUnique": "Moloch|Molech@Lev.18.21",
+      "extendedStrongs": "G3434",
+      "Hebrew_Greek": "Μολόχ",
+      "ESV_translation": "Moloch",
+      "NIV_translation": "Molek",
+      "KJV_translation": "Moloch",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Act.7.43"]
+    }
+
+]},
+{
+  "uniqueName": "Most_High@Gen.14.18",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Most_High@Gen.14.18",
+      "extendedStrongs": "G5310",
+      "Hebrew_Greek": "ὕψιστος",
+      "ESV_translation": "Most High",
+      "NIV_translation": "Most High",
+      "KJV_translation": "Most High",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mrk.5.7", "Luk.1.32", "Luk.1.35", "Luk.1.76", "Luk.6.35", "Luk.8.28", "Act.7.48", "Act.16.17", "Heb.7.1"]
+    },
+
+    {
+      "translatedUnique": "Most_High@Gen.14.18",
+      "extendedStrongs": "H5920",
+      "Hebrew_Greek": "עַל",
+      "ESV_translation": "Most High",
+      "NIV_translation": "Most High",
+      "KJV_translation": "Most High",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Hos.11.7"]
+    },
+
+    {
+      "translatedUnique": "Most_High@Gen.14.18",
+      "extendedStrongs": "H5943",
+      "Hebrew_Greek": "עִלַּי",
+      "ESV_translation": "Most High",
+      "NIV_translation": "Most High",
+      "KJV_translation": "Most High",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Dan.3.26", "Dan.4.2", "Dan.4.17", "Dan.4.24", "Dan.4.25", "Dan.4.32", "Dan.4.34", "Dan.5.18", "Dan.5.21", "Dan.7.25"]
+    },
+
+    {
+      "translatedUnique": "Most_High@Gen.14.18",
+      "extendedStrongs": "H5945b",
+      "Hebrew_Greek": "עֶלְיוֹן",
+      "ESV_translation": "Most High",
+      "NIV_translation": "Most High",
+      "KJV_translation": "Most High",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Gen.14.18", "Gen.14.19", "Gen.14.20", "Gen.14.22", "Num.24.16", "Deu.32.8", "2Sa.22.14", "Psa.7.17", "Psa.9.2", "Psa.18.13", "Psa.21.7", "Psa.46.4", "Psa.47.2", "Psa.50.14", "Psa.57.2", "Psa.73.11", "Psa.77.10", "Psa.78.17", "Psa.78.35", "Psa.78.56", "Psa.82.6", "Psa.83.18", "Psa.87.5", "Psa.91.1", "Psa.91.9", "Psa.92.1", "Psa.107.11", "Isa.14.14", "Lam.3.35", "Lam.3.38"]
+    },
+
+    {
+      "translatedUnique": "Most_High@Gen.14.18",
+      "extendedStrongs": "H5946",
+      "Hebrew_Greek": "עֶלְיוֹן",
+      "ESV_translation": "Most High",
+      "NIV_translation": "Most High",
+      "KJV_translation": "Most High",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Dan.7.18", "Dan.7.22", "Dan.7.25", "Dan.7.27"]
+    }
+
+]},
+{
+  "uniqueName": "Muth-labben@Psa.9.1",
+  "description": "A musical term",
+   "names": [
+    {
+      "translatedUnique": "Muth-labben@Psa.9.1",
+      "extendedStrongs": "H4192",
+      "Hebrew_Greek": "לַבֵּן",
+      "ESV_translation": "Muth-labben",
+      "NIV_translation": "Death of the Son",
+      "KJV_translation": "Methlabben",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Psa.9.1"]
+    }
+
+]},
+{
+  "uniqueName": "Nazirite@Num.6.2",
+  "description": "A group in Old Testament times",
+   "names": [
+    {
+      "translatedUnique": "Nazirite@Num.6.2",
+      "extendedStrongs": "H5139",
+      "Hebrew_Greek": "נָזִיר",
+      "ESV_translation": "Nazirite",
+      "NIV_translation": "Nazirite",
+      "KJV_translation": "Nazirite",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Num.6.2", "Num.6.13", "Num.6.18", "Num.6.19", "Num.6.20", "Num.6.21", "Jdg.13.5", "Jdg.13.7", "Jdg.16.17", "Amo.2.11", "Amo.2.12"]
+    },
+
+    {
+      "translatedUnique": "Nazirite@Num.6.2",
+      "extendedStrongs": "H5145",
+      "Hebrew_Greek": "נֵ֫זֶר",
+      "ESV_translation": "Nazirite vow",
+      "NIV_translation": "Nazirite vow",
+      "KJV_translation": "Nazirite vow",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Num.6.21"]
+    },
+
+    {
+      "translatedUnique": "Nazirite@Num.6.2",
+      "extendedStrongs": "H5145",
+      "Hebrew_Greek": "נֵ֫זֶר",
+      "ESV_translation": "Nazirite",
+      "NIV_translation": "Nazirite",
+      "KJV_translation": "Nazirite",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Num.6.21"]
+    }
+
+]},
+{
+  "uniqueName": "Nebo@Isa.46.1",
+  "description": "A non-physical place",
+   "names": [
+    {
+      "translatedUnique": "Nebo@Isa.46.1",
+      "extendedStrongs": "H5015b",
+      "Hebrew_Greek": "נְבוֹ",
+      "ESV_translation": "Nebo",
+      "NIV_translation": "Nebo",
+      "KJV_translation": "Nebo",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Isa.46.1"]
+    }
+
+]},
+{
+  "uniqueName": "Nehushtan@2Ki.18.4",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Nehushtan@2Ki.18.4",
+      "extendedStrongs": "H5180",
+      "Hebrew_Greek": "נְחֻשְׁתָּן",
+      "ESV_translation": "Nehushtan",
+      "NIV_translation": "Nehushtan",
+      "KJV_translation": "Nehushtan",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["2Ki.18.4"]
+    }
+
+]},
+{
+  "uniqueName": "Nergal@2Ki.17.30",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Nergal@2Ki.17.30",
+      "extendedStrongs": "H5370",
+      "Hebrew_Greek": "נֵרְגָּ֑ל",
+      "ESV_translation": "Nergal",
+      "NIV_translation": "Nergal",
+      "KJV_translation": "Nergal",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["2Ki.17.30"]
+    }
+
+]},
+{
+  "uniqueName": "New_Moon@Col.2.16",
+  "description": "Name of festival",
+   "names": [
+    {
+      "translatedUnique": "New_Moon@Col.2.16",
+      "extendedStrongs": "G3561",
+      "Hebrew_Greek": "νουμηνία",
+      "ESV_translation": "New Moon",
+      "NIV_translation": "New Moon",
+      "KJV_translation": "New Moon",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Col.2.16"]
+    }
+
+]},
+{
+  "uniqueName": "Nibhaz@2Ki.17.31",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Nibhaz@2Ki.17.31",
+      "extendedStrongs": "H5026",
+      "Hebrew_Greek": "נִבְחַז",
+      "ESV_translation": "Nibhaz",
+      "NIV_translation": "Nibhaz",
+      "KJV_translation": "Nibhaz",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["2Ki.17.31"]
+    }
+
+]},
+{
+  "uniqueName": "Nicolaitans@Rev.2.6",
+  "description": "A group in New Testament times",
+   "names": [
+    {
+      "translatedUnique": "Nicolaitans@Rev.2.6",
+      "extendedStrongs": "G3531",
+      "Hebrew_Greek": "Νικολαΐτης",
+      "ESV_translation": "Nicolaitan",
+      "NIV_translation": "Nicolaitan",
+      "KJV_translation": "Nicolaitan",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Rev.2.6", "Rev.2.15"]
+    }
+
+]},
+{
+  "uniqueName": "Nisan@Neh.2.1",
+  "description": "Name of month #1",
+   "names": [
+    {
+      "translatedUnique": "Nisan@Neh.2.1",
+      "extendedStrongs": "H5212",
+      "Hebrew_Greek": "נִיסָן",
+      "ESV_translation": "Nisan",
+      "NIV_translation": "Nisan",
+      "KJV_translation": "Nisan",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Est.3.7"]
+    }
+
+]},
+{
+  "uniqueName": "Nisroch@2Ki.19.37",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Nisroch@2Ki.19.37",
+      "extendedStrongs": "H5268",
+      "Hebrew_Greek": "נִסְרֹךְ",
+      "ESV_translation": "Nisroch",
+      "NIV_translation": "Nisroch",
+      "KJV_translation": "Nisroch",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["2Ki.19.37", "Isa.37.38"]
+    }
+
+]},
+{
+  "uniqueName": "Omega@Rev.1.8",
+  "description": "Name of a letter",
+   "names": [
+    {
+      "translatedUnique": "Omega@Rev.1.8",
+      "extendedStrongs": "G5598",
+      "Hebrew_Greek": "Ὦ",
+      "ESV_translation": "Omega",
+      "NIV_translation": "Omega",
+      "KJV_translation": "Omega",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Rev.1.8", "Rev.1.11", "Rev.21.6", "Rev.22.13"]
+    }
+
+]},
+{
+  "uniqueName": "Orion@Job.9.9",
+  "description": "A star or constellation",
+   "names": [
+    {
+      "translatedUnique": "Orion@Job.9.9",
+      "extendedStrongs": "H3685",
+      "Hebrew_Greek": "כְּסִיל",
+      "ESV_translation": "Orion",
+      "NIV_translation": "Orion",
+      "KJV_translation": "Orion",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Job.9.9", "Job.38.31", "Amo.5.8"]
+    }
+
+]},
+{
+  "uniqueName": "Passover@Exo.12.11",
+  "description": "Name of a feastival",
+   "names": [
+    {
+      "translatedUnique": "Passover@Exo.12.11",
+      "extendedStrongs": "G3957",
+      "Hebrew_Greek": "πάσχα",
+      "ESV_translation": "Passover lamb",
+      "NIV_translation": "Passover lamb",
+      "KJV_translation": "Passover lamb",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mrk.14.12a", "Luk.22.7", "1Co.5.7"]
+    },
+
+    {
+      "translatedUnique": "Passover@Exo.12.11",
+      "extendedStrongs": "G3957",
+      "Hebrew_Greek": "πάσχα",
+      "ESV_translation": "Passover",
+      "NIV_translation": "Passover",
+      "KJV_translation": "Passover",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mat.26.2", "Mat.26.17", "Mat.26.18", "Mat.26.19", "Mrk.14.1", "Mrk.14.12b", "Mrk.14.14", "Mrk.14.16", "Luk.2.41", "Luk.22.1", "Luk.22.8", "Luk.22.11", "Luk.22.13", "Luk.22.15", "Jhn.2.13", "Jhn.2.23", "Jhn.6.4", "Jhn.11.55a", "Jhn.11.55b", "Jhn.12.1", "Jhn.13.1", "Jhn.18.28", "Jhn.18.39", "Jhn.19.14", "Act.12.4", "Heb.11.28"]
+    },
+
+    {
+      "translatedUnique": "Passover@Exo.12.11",
+      "extendedStrongs": "H6453",
+      "Hebrew_Greek": "פֶּ֫סַח",
+      "ESV_translation": "Passover lamb",
+      "NIV_translation": "Passover lamb",
+      "KJV_translation": "Passover lamb",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Exo.12.21", "2Ch.30.15", "2Ch.30.17", "2Ch.35.1", "2Ch.35.6", "2Ch.35.11", "2Ch.35.13", "Ezr.6.20"]
+    },
+
+    {
+      "translatedUnique": "Passover@Exo.12.11",
+      "extendedStrongs": "H6453",
+      "Hebrew_Greek": "פֶּ֫סַח",
+      "ESV_translation": "Passover offering",
+      "NIV_translation": "Passover offering",
+      "KJV_translation": "Passover offering",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["2Ch.35.7", "2Ch.35.8", "2Ch.35.9"]
+    },
+
+    {
+      "translatedUnique": "Passover@Exo.12.11",
+      "extendedStrongs": "H6453",
+      "Hebrew_Greek": "פֶּ֫סַח",
+      "ESV_translation": "Passover",
+      "NIV_translation": "Passover",
+      "KJV_translation": "Passover",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Exo.12.11", "Exo.12.27", "Exo.12.43", "Exo.12.48", "Exo.34.25", "Lev.23.5", "Num.9.2", "Num.9.4", "Num.9.5", "Num.9.6", "Num.9.10", "Num.9.12", "Num.9.13", "Num.9.14a", "Num.9.14b", "Num.28.16", "Num.33.3", "Deu.16.1", "Deu.16.2", "Deu.16.5", "Deu.16.6", "Jos.5.10", "Jos.5.11", "2Ki.23.21", "2Ki.23.22", "2Ki.23.23", "2Ch.30.1", "2Ch.30.2", "2Ch.30.5", "2Ch.30.18", "2Ch.35.1", "2Ch.35.16", "2Ch.35.17", "2Ch.35.18a", "2Ch.35.18b", "2Ch.35.19", "Ezr.6.19", "Ezk.45.21"]
+    }
+
+]},
+{
+  "uniqueName": "Pharisee@Mat.3.7",
+  "description": "A group in New Testament times",
+   "names": [
+    {
+      "translatedUnique": "Pharisee@Mat.3.7",
+      "extendedStrongs": "G5330",
+      "Hebrew_Greek": "Φαρισαῖος",
+      "ESV_translation": "Pharisee",
+      "NIV_translation": "Pharisee",
+      "KJV_translation": "Pharisee",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mat.3.7", "Mat.5.20", "Mat.9.11", "Mat.9.14", "Mat.9.34", "Mat.12.2", "Mat.12.14", "Mat.12.24", "Mat.12.38", "Mat.15.1", "Mat.15.12", "Mat.16.1", "Mat.16.6", "Mat.16.11", "Mat.16.12", "Mat.19.3", "Mat.21.45", "Mat.22.15", "Mat.22.34", "Mat.22.41", "Mat.23.2", "Mat.23.13", "Mat.23.15", "Mat.23.23", "Mat.23.25", "Mat.23.26", "Mat.23.27", "Mat.23.29", "Mat.27.62", "Mrk.2.16", "Mrk.2.18a", "Mrk.2.18b", "Mrk.2.24", "Mrk.3.6", "Mrk.7.1", "Mrk.7.3", "Mrk.7.5", "Mrk.8.11", "Mrk.8.15", "Mrk.10.2", "Mrk.12.13", "Luk.5.17", "Luk.5.21", "Luk.5.30", "Luk.5.33", "Luk.6.2", "Luk.6.7", "Luk.7.30", "Luk.7.36a", "Luk.7.36b", "Luk.7.37", "Luk.7.39", "Luk.11.37", "Luk.11.38", "Luk.11.39", "Luk.11.42", "Luk.11.43", "Luk.11.53", "Luk.12.1", "Luk.13.31", "Luk.14.1", "Luk.14.3", "Luk.15.2", "Luk.16.14", "Luk.17.20", "Luk.18.10", "Luk.18.11", "Luk.19.39", "Jhn.1.24", "Jhn.3.1", "Jhn.4.1", "Jhn.7.32a", "Jhn.7.32b", "Jhn.7.45", "Jhn.7.47", "Jhn.7.48", "Jhn.8.3", "Jhn.8.13", "Jhn.9.13", "Jhn.9.15", "Jhn.9.16", "Jhn.9.40", "Jhn.11.46", "Jhn.11.47", "Jhn.11.57", "Jhn.12.19", "Jhn.12.42", "Jhn.18.3", "Act.5.34", "Act.15.5", "Act.23.6a", "Act.23.6b", "Act.23.6c", "Act.23.7", "Act.23.8", "Act.23.9", "Act.26.5", "Php.3.5"]
+    },
+
+    {
+      "translatedUnique": "Pharisee@Mat.3.7",
+      "extendedStrongs": "G5330",
+      "Hebrew_Greek": "Φαρισαῖος",
+      "ESV_translation": "[ ]",
+      "NIV_translation": "[ ]",
+      "KJV_translation": "Pharisee",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mat.23.14", "Mat.27.41", "Luk.11.44"]
+    }
+
+]},
+{
+  "uniqueName": "Pleiades@Job.9.9",
+  "description": "A star or constellation",
+   "names": [
+    {
+      "translatedUnique": "Pleiades@Job.9.9",
+      "extendedStrongs": "H3598",
+      "Hebrew_Greek": "כִּימָה",
+      "ESV_translation": "Pleiades",
+      "NIV_translation": "Pleiades",
+      "KJV_translation": "Pleiades",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Job.9.9", "Job.38.31", "Amo.5.8"]
+    }
+
+]},
+{
+  "uniqueName": "Preparation_Festival@Mat.27.62",
+  "description": "Name of festival",
+   "names": [
+    {
+      "translatedUnique": "Preparation_Festival@Mat.27.62",
+      "extendedStrongs": "G3904",
+      "Hebrew_Greek": "παρασκευή",
+      "ESV_translation": "Preparation",
+      "NIV_translation": "Preparation",
+      "KJV_translation": "Preparation",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mat.27.62", "Mrk.15.42", "Luk.23.54", "Jhn.19.14", "Jhn.19.31a", "Jhn.19.31b", "Jhn.19.42"]
+    }
+
+]},
+{
+  "uniqueName": "Purim@Est.3.7",
+  "description": "Name of a feastival",
+   "names": [
+    {
+      "translatedUnique": "Pur|Purim@Est.3.7",
+      "extendedStrongs": "H6332",
+      "Hebrew_Greek": "פּוּר",
+      "ESV_translation": "Pur",
+      "NIV_translation": "Pur",
+      "KJV_translation": "Pur",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Est.3.7", "Est.9.24", "Est.9.26"]
+    },
+
+    {
+      "translatedUnique": "Pur|Purim@Est.3.7",
+      "extendedStrongs": "H6332",
+      "Hebrew_Greek": "פּוּר",
+      "ESV_translation": "Purim",
+      "NIV_translation": "Purim",
+      "KJV_translation": "Purim",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Est.9.26", "Est.9.28", "Est.9.29", "Est.9.31", "Est.9.32"]
+    }
+
+]},
+{
+  "uniqueName": "Rabbi@Mat.23.7",
+  "description": "Title of a leader",
+   "names": [
+    {
+      "translatedUnique": "Rabbi@Mat.23.7",
+      "extendedStrongs": "G4461",
+      "Hebrew_Greek": "ῥαββί",
+      "ESV_translation": "Rabbi",
+      "NIV_translation": "Rabbi",
+      "KJV_translation": "Rabbi",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mat.23.7a", "Mat.23.7b", "Mat.23.8", "Mat.26.25", "Mat.26.49", "Mrk.9.5", "Mrk.11.21", "Mrk.14.45", "Jhn.1.38", "Jhn.1.49", "Jhn.3.2", "Jhn.3.26", "Jhn.4.31", "Jhn.6.25", "Jhn.9.2", "Jhn.11.8"]
+    },
+
+    {
+      "translatedUnique": "Rabbi@Mat.23.7",
+      "extendedStrongs": "G4462",
+      "Hebrew_Greek": "ῥαββονί",
+      "ESV_translation": "Rabbi",
+      "NIV_translation": "Rabbi",
+      "KJV_translation": "Rabbi",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mrk.10.51"]
+    },
+
+    {
+      "translatedUnique": "Rabboni|Rabbi@Mat.23.7",
+      "extendedStrongs": "G4462",
+      "Hebrew_Greek": "ῥαββονί",
+      "ESV_translation": "Rabboni",
+      "NIV_translation": "Rabboni",
+      "KJV_translation": "Rabboni",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Jhn.20.16"]
+    }
+
+]},
+{
+  "uniqueName": "Raca@Mat.5.22",
+  "description": "Title of disrespect",
+   "names": [
+    {
+      "translatedUnique": "Raca@Mat.5.22",
+      "extendedStrongs": "G4469",
+      "Hebrew_Greek": "ῥακά",
+      "ESV_translation": "fool",
+      "NIV_translation": "Raca",
+      "KJV_translation": "Raca",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mat.5.22"]
+    }
+
+]},
+{
+  "uniqueName": "Rahab@Job.9.13",
+  "description": "A monster",
+   "names": [
+    {
+      "translatedUnique": "Rahab@Job.9.13",
+      "extendedStrongs": "H7294",
+      "Hebrew_Greek": "רַ֫הַב",
+      "ESV_translation": "Rahab",
+      "NIV_translation": "Rahab",
+      "KJV_translation": "Rahab",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Job.9.13", "Job.26.12", "Psa.89.10", "Isa.51.9"]
+    }
+
+]},
+{
+  "uniqueName": "Rephan@Act.7.43",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Rephan@Act.7.43",
+      "extendedStrongs": "G4481",
+      "Hebrew_Greek": "Ῥεφάν, Ῥαιφάν, Ῥομφά, Ῥεμφάν",
+      "ESV_translation": "Rephan",
+      "NIV_translation": "Rephan",
+      "KJV_translation": "Rephan",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Act.7.43"]
+    }
+
+]},
+{
+  "uniqueName": "Rimmon@2Ki.5.18",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Rimmon@2Ki.5.18",
+      "extendedStrongs": "H7417a",
+      "Hebrew_Greek": "רִמּוֹן",
+      "ESV_translation": "Rimmon",
+      "NIV_translation": "Rimmon",
+      "KJV_translation": "Rimmon",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["2Ki.5.18a", "2Ki.5.18b", "2Ki.5.18c "]
+    }
+
+]},
+{
+  "uniqueName": "Sabbath@Exo.16.23",
+  "description": "Name of a feastival",
+   "names": [
+    {
+      "translatedUnique": "Sabbath@Exo.16.23",
+      "extendedStrongs": "G4315",
+      "Hebrew_Greek": "προσάββατον",
+      "ESV_translation": "Sabbath",
+      "NIV_translation": "Sabbath",
+      "KJV_translation": "Sabbath",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mrk.15.42"]
+    },
+
+    {
+      "translatedUnique": "Sabbath@Exo.16.23",
+      "extendedStrongs": "G4520",
+      "Hebrew_Greek": "σαββατισμός",
+      "ESV_translation": "Sabbath rest",
+      "NIV_translation": "Sabbath rest",
+      "KJV_translation": "Sabbath rest",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Heb.4.9"]
+    },
+
+    {
+      "translatedUnique": "Sabbath@Exo.16.23",
+      "extendedStrongs": "G4521",
+      "Hebrew_Greek": "σάββατον",
+      "ESV_translation": "Sabbath",
+      "NIV_translation": "Sabbath",
+      "KJV_translation": "Sabbath",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mat.12.1", "Mat.12.2", "Mat.12.5a", "Mat.12.5b", "Mat.12.8", "Mat.12.10", "Mat.12.11", "Mat.12.12", "Mat.24.20", "Mat.28.1a", "Mrk.1.21", "Mrk.2.23", "Mrk.2.24", "Mrk.2.27a", "Mrk.2.27b", "Mrk.2.28", "Mrk.3.2", "Mrk.3.4", "Mrk.6.2", "Mrk.16.1", "Luk.4.16", "Luk.4.31", "Luk.6.1", "Luk.6.2", "Luk.6.5", "Luk.6.6", "Luk.6.7", "Luk.6.9", "Luk.13.10", "Luk.13.14a", "Luk.13.14b", "Luk.13.15", "Luk.13.16", "Luk.14.1", "Luk.14.3", "Luk.14.5", "Luk.23.54", "Luk.23.56", "Jhn.5.9", "Jhn.5.10", "Jhn.5.16", "Jhn.5.18", "Jhn.7.22", "Jhn.7.23a", "Jhn.7.23b", "Jhn.9.14", "Jhn.9.16", "Jhn.19.31a", "Jhn.19.31b", "Act.1.12", "Act.13.14", "Act.13.27", "Act.13.42", "Act.13.44", "Act.15.21", "Act.16.13", "Act.17.2", "Act.18.4", "Col.2.16"]
+    },
+
+    {
+      "translatedUnique": "Sabbath@Exo.16.23",
+      "extendedStrongs": "H7676",
+      "Hebrew_Greek": "שַׁבָּת",
+      "ESV_translation": "Sabbath",
+      "NIV_translation": "Sabbath",
+      "KJV_translation": "Sabbath",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Exo.16.23", "Exo.16.25", "Exo.16.26", "Exo.16.29", "Exo.20.8", "Exo.20.10", "Exo.20.11", "Exo.31.13", "Exo.31.14", "Exo.31.15a", "Exo.31.15b", "Exo.31.16a", "Exo.31.16b", "Exo.35.2", "Exo.35.3", "Lev.16.31", "Lev.19.3", "Lev.19.30", "Lev.23.3a", "Lev.23.3b", "Lev.23.11", "Lev.23.15", "Lev.23.16", "Lev.23.32a", "Lev.23.32b", "Lev.23.38", "Lev.24.8", "Lev.25.2", "Lev.25.4a", "Lev.25.4b", "Lev.25.6", "Lev.26.2", "Lev.26.34a", "Lev.26.34b", "Lev.26.35", "Lev.26.43", "Num.15.32", "Num.28.9", "Num.28.10", "Deu.5.12", "Deu.5.14", "Deu.5.15", "2Ki.4.23", "2Ki.11.5", "2Ki.11.7", "2Ki.11.9a", "2Ki.11.9b", "2Ki.16.18", "1Ch.9.32", "1Ch.23.31", "2Ch.2.4", "2Ch.8.13", "2Ch.23.4", "2Ch.23.8a", "2Ch.23.8b", "2Ch.31.3", "2Ch.36.21", "Neh.9.14", "Neh.10.31a", "Neh.10.31b", "Neh.10.33", "Neh.13.15a", "Neh.13.15b", "Neh.13.16", "Neh.13.17", "Neh.13.18", "Neh.13.19a", "Neh.13.19b", "Neh.13.19c", "Neh.13.21", "Neh.13.22", "Isa.1.13", "Isa.56.2", "Isa.56.4", "Isa.56.6", "Isa.58.13a", "Isa.58.13b", "Isa.66.23a", "Isa.66.23b", "Jer.17.21", "Jer.17.22a", "Jer.17.22b", "Jer.17.24a", "Jer.17.24b", "Jer.17.27a", "Jer.17.27b", "Lam.2.6", "Ezk.20.12", "Ezk.20.13", "Ezk.20.16", "Ezk.20.20", "Ezk.20.21", "Ezk.20.24", "Ezk.22.8", "Ezk.22.26", "Ezk.23.38", "Ezk.44.24", "Ezk.45.17", "Ezk.46.1", "Ezk.46.3", "Ezk.46.4", "Ezk.46.12", "Hos.2.11", "Amo.8.5"]
+    },
+
+    {
+      "translatedUnique": "week|Sabbath@Exo.16.23",
+      "extendedStrongs": "G4521",
+      "Hebrew_Greek": "σάββατον",
+      "ESV_translation": "week",
+      "NIV_translation": "week",
+      "KJV_translation": "week",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mat.28.1b", "Mrk.16.2", "Mrk.16.9", "Luk.18.12", "Luk.24.1", "Jhn.20.1", "Jhn.20.19", "1Co.16.2a", "1Co.16.2b"]
+    }
+
+]},
+{
+  "uniqueName": "Sadducee@Mat.3.7",
+  "description": "A group in New Testament times",
+   "names": [
+    {
+      "translatedUnique": "Sadducee@Mat.3.7",
+      "extendedStrongs": "G4523",
+      "Hebrew_Greek": "Σαδδουκαῖος",
+      "ESV_translation": "Sadducee",
+      "NIV_translation": "Sadducee",
+      "KJV_translation": "Sadducee",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mat.3.7", "Mat.16.1", "Mat.16.6", "Mat.16.11", "Mat.16.12", "Mat.22.23", "Mat.22.34", "Mrk.12.18", "Luk.20.27", "Act.4.1", "Act.5.17", "Act.23.6", "Act.23.7", "Act.23.8"]
+    }
+
+]},
+{
+  "uniqueName": "Satan@Deu.13.13",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "accuser|Satan@Deu.13.13",
+      "extendedStrongs": "H7854",
+      "Hebrew_Greek": "שָׂטָן",
+      "ESV_translation": "accuser",
+      "NIV_translation": "accuser",
+      "KJV_translation": "Satan",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Psa.109.6"]
+    },
+
+    {
+      "translatedUnique": "Beelzebub|Satan@Deu.13.13",
+      "extendedStrongs": "G0954",
+      "Hebrew_Greek": "Βεελζεβούλ",
+      "ESV_translation": "Beelzebul",
+      "NIV_translation": "Beelzebul",
+      "KJV_translation": "Beelzebub",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mat.10.25", "Mat.12.24", "Mat.12.27", "Mrk.3.22", "Luk.11.15", "Luk.11.18", "Luk.11.19"]
+    },
+
+    {
+      "translatedUnique": "worthless|Satan@Deu.13.13",
+      "extendedStrongs": "H1100",
+      "Hebrew_Greek": "בְּלִיַּ֫עַל",
+      "ESV_translation": "worthless",
+      "NIV_translation": "troublemakers",
+      "KJV_translation": "Belial",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Deu.13.13", "1Sa.30.22", "2Sa.20.1"]
+    },
+
+    {
+      "translatedUnique": "worthless|Satan@Deu.13.13",
+      "extendedStrongs": "H1100",
+      "Hebrew_Greek": "בְּלִיַּ֫עַל",
+      "ESV_translation": "worthless",
+      "NIV_translation": "wicked",
+      "KJV_translation": "Belial",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Jdg.19.22", "Jdg.20.13", "1Sa.1.16", "1Sa.25.17", "1Sa.25.25"]
+    },
+
+    {
+      "translatedUnique": "worthless|Satan@Deu.13.13",
+      "extendedStrongs": "H1100",
+      "Hebrew_Greek": "בְּלִיַּ֫עַל",
+      "ESV_translation": "worthless",
+      "NIV_translation": "evil",
+      "KJV_translation": "Belial",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["2Sa.23.6"]
+    },
+
+    {
+      "translatedUnique": "worthless|Satan@Deu.13.13",
+      "extendedStrongs": "H1100",
+      "Hebrew_Greek": "בְּלִיַּ֫עַל",
+      "ESV_translation": "worthless",
+      "NIV_translation": "scoundrel",
+      "KJV_translation": "Belial",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["1Sa.2.12", "1Sa.10.27", "2Sa.16.7", "1Ki.21.10", "1Ki.21.13"]
+    },
+
+    {
+      "translatedUnique": "scoundrel|Satan@Deu.13.13",
+      "extendedStrongs": "H1100",
+      "Hebrew_Greek": "בְּלִיַּ֫עַל",
+      "ESV_translation": "scoundrel",
+      "NIV_translation": "scoundrel",
+      "KJV_translation": "Belial",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["2Ch.13.7"]
+    },
+
+    {
+      "translatedUnique": "Belial|Satan@Deu.13.13",
+      "extendedStrongs": "G0955",
+      "Hebrew_Greek": "Βελίαλ",
+      "ESV_translation": "Belial",
+      "NIV_translation": "Belial",
+      "KJV_translation": "Belial",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["2Co.6.15"]
+    },
+
+    {
+      "translatedUnique": "Satan@Deu.13.13",
+      "extendedStrongs": "G4566",
+      "Hebrew_Greek": "Σατάν",
+      "ESV_translation": "Satan",
+      "NIV_translation": "Satan",
+      "KJV_translation": "Satan",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["2Co.12.7"]
+    },
+
+    {
+      "translatedUnique": "Satan@Deu.13.13",
+      "extendedStrongs": "G4567",
+      "Hebrew_Greek": "Σατανᾶς",
+      "ESV_translation": "[ ]",
+      "NIV_translation": "[ ]",
+      "KJV_translation": "Satan",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Luk.4.8"]
+    },
+
+    {
+      "translatedUnique": "Satan@Deu.13.13",
+      "extendedStrongs": "G4567",
+      "Hebrew_Greek": "Σατανᾶς",
+      "ESV_translation": "Satan",
+      "NIV_translation": "Satan",
+      "KJV_translation": "Satan",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mat.4.10", "Mat.12.26a", "Mat.12.26b", "Mat.16.23", "Mrk.1.13", "Mrk.3.23a", "Mrk.3.23b", "Mrk.3.26", "Mrk.4.15", "Mrk.8.33", "Luk.10.18", "Luk.11.18", "Luk.13.16", "Luk.22.3", "Luk.22.31", "Jhn.13.27", "Act.5.3", "Act.26.18", "Rom.16.20", "1Co.5.5", "1Co.7.5", "2Co.2.11", "2Co.11.14", "1Th.2.18", "2Th.2.9", "1Ti.1.20", "1Ti.5.15", "Rev.2.9", "Rev.2.13a", "Rev.2.13b", "Rev.2.24", "Rev.3.9", "Rev.12.9", "Rev.20.2", "Rev.20.7"]
+    },
+
+    {
+      "translatedUnique": "Satan@Deu.13.13",
+      "extendedStrongs": "H7854",
+      "Hebrew_Greek": "שָׂטָן",
+      "ESV_translation": "Satan",
+      "NIV_translation": "Satan",
+      "KJV_translation": "Satan",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["1Ch.21.1", "Job.1.6", "Job.1.7a", "Job.1.7b", "Job.1.8", "Job.1.9", "Job.1.12a", "Job.1.12b", "Job.2.1", "Job.2.2a", "Job.2.2b", "Job.2.3", "Job.2.4", "Job.2.6", "Job.2.7", "Zec.3.1", "Zec.3.2a", "Zec.3.2b "]
+    }
+
+]},
+{
+  "uniqueName": "Selah@Psa.3.2",
+  "description": "A musical term",
+   "names": [
+    {
+      "translatedUnique": "Selah@Psa.3.2",
+      "extendedStrongs": "H5542",
+      "Hebrew_Greek": "סֶ֫לָה",
+      "ESV_translation": "Selah",
+      "NIV_translation": "Selah",
+      "KJV_translation": "Selah",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Psa.3.2", "Psa.3.4", "Psa.3.8", "Psa.4.2", "Psa.4.4", "Psa.7.5", "Psa.9.16", "Psa.9.20", "Psa.20.3", "Psa.21.2", "Psa.24.6", "Psa.24.10", "Psa.32.4", "Psa.32.5", "Psa.32.7", "Psa.39.5", "Psa.39.11", "Psa.44.8", "Psa.46.3", "Psa.46.7", "Psa.46.11", "Psa.47.4", "Psa.48.8", "Psa.49.13", "Psa.49.15", "Psa.50.6", "Psa.52.3", "Psa.52.5", "Psa.54.3", "Psa.55.7", "Psa.55.19", "Psa.57.3", "Psa.57.6", "Psa.59.5", "Psa.59.13", "Psa.60.4", "Psa.61.4", "Psa.62.4", "Psa.62.8", "Psa.66.4", "Psa.66.7", "Psa.66.15", "Psa.67.1", "Psa.67.4", "Psa.68.7", "Psa.68.19", "Psa.68.32", "Psa.75.3", "Psa.76.3", "Psa.76.9", "Psa.77.3", "Psa.77.9", "Psa.77.15", "Psa.81.7", "Psa.82.2", "Psa.83.8", "Psa.84.4", "Psa.84.8", "Psa.85.2", "Psa.87.3", "Psa.87.6", "Psa.88.7", "Psa.88.10", "Psa.89.4", "Psa.89.37", "Psa.89.45", "Psa.89.48", "Psa.140.3", "Psa.140.5", "Psa.140.8", "Psa.143.6", "Hab.3.3", "Hab.3.9", "Hab.3.13"]
+    }
+
+]},
+{
+  "uniqueName": "Seraph@Isa.6.2",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Seraph@Isa.6.2",
+      "extendedStrongs": "H8314b",
+      "Hebrew_Greek": "שָׂרָף",
+      "ESV_translation": "Seraph",
+      "NIV_translation": "Seraph",
+      "KJV_translation": "Seraph",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Isa.6.2", "Isa.6.6"]
+    }
+
+]},
+{
+  "uniqueName": "Shebat@Zec.1.7",
+  "description": "Name of month #11",
+   "names": [
+    {
+      "translatedUnique": "Shebat@Zec.1.7",
+      "extendedStrongs": "H7627",
+      "Hebrew_Greek": "שְׁבָט",
+      "ESV_translation": "Shebat",
+      "NIV_translation": "Shebat",
+      "KJV_translation": "Shebat",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Zec.1.7"]
+    }
+
+]},
+{
+  "uniqueName": "Sheminith@1Ch.15.21",
+  "description": "A musical term",
+   "names": [
+    {
+      "translatedUnique": "Sheminith@1Ch.15.21",
+      "extendedStrongs": "H8067",
+      "Hebrew_Greek": "שְׁמִינִית",
+      "ESV_translation": "Sheminith",
+      "NIV_translation": "Sheminith",
+      "KJV_translation": "Sheminith",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["1Ch.15.21", "Psa.6.1", "Psa.12.1"]
+    }
+
+]},
+{
+  "uniqueName": "Shibboleth@Jdg.12.6",
+  "description": "A password",
+   "names": [
+    {
+      "translatedUnique": "Shibboleth@Jdg.12.6",
+      "extendedStrongs": "H7641a",
+      "Hebrew_Greek": "שִׁבֹּ֫לֶת",
+      "ESV_translation": "Shibboleth",
+      "NIV_translation": "Shibboleth",
+      "KJV_translation": "Shibboleth",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Jdg.12.6"]
+    }
+
+]},
+{
+  "uniqueName": "Shiggaion@Psa.7.1",
+  "description": "A musical term",
+   "names": [
+    {
+      "translatedUnique": "Shiggaion@Psa.7.1",
+      "extendedStrongs": "H7692",
+      "Hebrew_Greek": "שִׁגָּיוֹן",
+      "ESV_translation": "Shiggaion",
+      "NIV_translation": "Shiggaion",
+      "KJV_translation": "Shiggaion",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Psa.7.1"]
+    }
+
+]},
+{
+  "uniqueName": "Shigionoth@Hab.3.1",
+  "description": "A musical term",
+   "names": [
+    {
+      "translatedUnique": "Shigionoth@Hab.3.1",
+      "extendedStrongs": "H7692",
+      "Hebrew_Greek": "שִׁגָּיוֹן",
+      "ESV_translation": "Shigionoth",
+      "NIV_translation": "Shigionoth",
+      "KJV_translation": "Shigionoth",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Hab.3.1"]
+    }
+
+]},
+{
+  "uniqueName": "Shimeathite@1Ch.2.55",
+  "description": "A group in Old Testament times",
+   "names": [
+    {
+      "translatedUnique": "Shimeathite@1Ch.2.55",
+      "extendedStrongs": "H8101",
+      "Hebrew_Greek": "שִׁמְעָתִים",
+      "ESV_translation": "Shimeathite",
+      "NIV_translation": "Shimeathite",
+      "KJV_translation": "Shimeathite",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["1Ch.2.55"]
+    }
+
+]},
+{
+  "uniqueName": "Shushan_Eduth@Psa.60.1",
+  "description": "A musical term",
+   "names": [
+    {
+      "translatedUnique": "Shushan_Eduth@Psa.60.1",
+      "extendedStrongs": "H7799",
+      "Hebrew_Greek": "שׁוּשַׁן",
+      "ESV_translation": "Shushan Eduth",
+      "NIV_translation": "Lily of the Covenant",
+      "KJV_translation": "Shushan Eduth",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Psa.60.1"]
+    }
+
+]},
+{
+  "uniqueName": "Sikkuth@Amo.5.26",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Sikkuth@Amo.5.26",
+      "extendedStrongs": "H5522",
+      "Hebrew_Greek": "סִכּוּת",
+      "ESV_translation": "Sikkuth",
+      "NIV_translation": "Sikkuth",
+      "KJV_translation": "Sikkuth",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Amo.5.26"]
+    }
+
+]},
+{
+  "uniqueName": "Sivan@Est.8.9",
+  "description": "Name of month #3",
+   "names": [
+    {
+      "translatedUnique": "Sivan@Est.8.9",
+      "extendedStrongs": "H5510",
+      "Hebrew_Greek": "סִיוָן",
+      "ESV_translation": "Sivan",
+      "NIV_translation": "Sivan",
+      "KJV_translation": "Sivan",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Est.8.9"]
+    }
+
+]},
+{
+  "uniqueName": "Stoic@Act.17.18",
+  "description": "A group in New Testament times",
+   "names": [
+    {
+      "translatedUnique": "Stoic@Act.17.18",
+      "extendedStrongs": "G4770",
+      "Hebrew_Greek": "Στωϊκός",
+      "ESV_translation": "Stoic",
+      "NIV_translation": "Stoic",
+      "KJV_translation": "Stoic",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Act.17.18"]
+    }
+
+]},
+{
+  "uniqueName": "Sucathite@1Ch.2.55",
+  "description": "A group in Old Testament times",
+   "names": [
+    {
+      "translatedUnique": "Sucathite@1Ch.2.55",
+      "extendedStrongs": "H7756",
+      "Hebrew_Greek": "שׂוּכָתִים",
+      "ESV_translation": "Sucathite",
+      "NIV_translation": "Sucathite",
+      "KJV_translation": "Sucathite",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["1Ch.2.55"]
+    }
+
+]},
+{
+  "uniqueName": "Succoth-benoth@2Ki.17.30",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Succoth-benoth@2Ki.17.30",
+      "extendedStrongs": "H5524",
+      "Hebrew_Greek": "סֻכּוֹת בְּנוֹת",
+      "ESV_translation": "Succoth-benoth",
+      "NIV_translation": "Succoth Benoth",
+      "KJV_translation": "Succoth-benoth",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["2Ki.17.30"]
+    }
+
+]},
+{
+  "uniqueName": "Tammuz@Ezk.8.14",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Tammuz@Ezk.8.14",
+      "extendedStrongs": "H8542",
+      "Hebrew_Greek": "תַּמּוּז",
+      "ESV_translation": "Tammuz",
+      "NIV_translation": "Tammuz",
+      "KJV_translation": "Tammuz",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Ezk.8.14"]
+    }
+
+]},
+{
+  "uniqueName": "Tarpelite@Ezr.4.9",
+  "description": "Word  sometimes translated as a title",
+   "names": [
+    {
+      "translatedUnique": "officials|Tarpelite@Ezr.4.9",
+      "extendedStrongs": "H2967",
+      "Hebrew_Greek": "טַרְפְּלָיֵא",
+      "ESV_translation": "officials",
+      "NIV_translation": "administrators",
+      "KJV_translation": "Tarpelite",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Ezr.4.9"]
+    }
+
+]},
+{
+  "uniqueName": "Tartak@2Ki.17.31",
+  "description": "A deity/angel",
+   "names": [
+    {
+      "translatedUnique": "Tartak@2Ki.17.31",
+      "extendedStrongs": "H8662",
+      "Hebrew_Greek": "תַּרְתָּ֑ק",
+      "ESV_translation": "Tartak",
+      "NIV_translation": "Tartak",
+      "KJV_translation": "Tartak",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["2Ki.17.31"]
+    }
+
+]},
+{
+  "uniqueName": "Tebeth@Est.2.16",
+  "description": "Name of month #10",
+   "names": [
+    {
+      "translatedUnique": "Tebeth@Est.2.16",
+      "extendedStrongs": "H2887",
+      "Hebrew_Greek": "טֵבֶ֑ת",
+      "ESV_translation": "Tebeth",
+      "NIV_translation": "Tebeth",
+      "KJV_translation": "Tebeth",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Est.2.16"]
+    }
+
+]},
+{
+  "uniqueName": "Teraphim@Gen.31.19",
+  "description": "Group of deities",
+   "names": [
+    {
+      "translatedUnique": "household_gods|Teraphim@Gen.31.19",
+      "extendedStrongs": "H8655",
+      "Hebrew_Greek": "תְּרָפִים",
+      "ESV_translation": "household gods",
+      "NIV_translation": "idols",
+      "KJV_translation": "idols",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Zec.10.2"]
+    },
+
+    {
+      "translatedUnique": "household_gods|Teraphim@Gen.31.19",
+      "extendedStrongs": "H8655",
+      "Hebrew_Greek": "תְּרָפִים",
+      "ESV_translation": "household gods",
+      "NIV_translation": "household gods",
+      "KJV_translation": "images",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Gen.31.19", "Gen.31.34", "Gen.31.35", "2Ki.23.24"]
+    },
+
+    {
+      "translatedUnique": "household_gods|Teraphim@Gen.31.19",
+      "extendedStrongs": "H8655",
+      "Hebrew_Greek": "תְּרָפִים",
+      "ESV_translation": "household gods",
+      "NIV_translation": "household gods",
+      "KJV_translation": "teraphim",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Jdg.17.5", "Jdg.18.14", "Jdg.18.17", "Jdg.18.18", "Jdg.18.20", "Hos.3.4"]
+    },
+
+    {
+      "translatedUnique": "idolatry|Teraphim@Gen.31.19",
+      "extendedStrongs": "H8655",
+      "Hebrew_Greek": "תְּרָפִים",
+      "ESV_translation": "idolatry",
+      "NIV_translation": "idolatry",
+      "KJV_translation": "idolatry",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["1Sa.15.23"]
+    },
+
+    {
+      "translatedUnique": "image|Teraphim@Gen.31.19",
+      "extendedStrongs": "H8655",
+      "Hebrew_Greek": "תְּרָפִים",
+      "ESV_translation": "image",
+      "NIV_translation": "idol",
+      "KJV_translation": "image",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["1Sa.19.13", "1Sa.19.16"]
+    },
+
+    {
+      "translatedUnique": "Teraphim@Gen.31.19",
+      "extendedStrongs": "H8655",
+      "Hebrew_Greek": "תְּרָפִים",
+      "ESV_translation": "teraphim",
+      "NIV_translation": "idols",
+      "KJV_translation": "images",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Ezk.21.21"]
+    }
+
+]},
+{
+  "uniqueName": "Thummim@Exo.28.30",
+  "description": "A religious item",
+   "names": [
+    {
+      "translatedUnique": "Thummim@Exo.28.30",
+      "extendedStrongs": "H8550",
+      "Hebrew_Greek": "תֻּמִּים",
+      "ESV_translation": "Thummim",
+      "NIV_translation": "Thummim",
+      "KJV_translation": "Thummim",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Exo.28.30", "Lev.8.8", "Deu.33.8", "Ezr.2.63", "Neh.7.65"]
+    }
+
+]},
+{
+  "uniqueName": "Tirathite@1Ch.2.55",
+  "description": "A group in Old Testament times",
+   "names": [
+    {
+      "translatedUnique": "Tirathite@1Ch.2.55",
+      "extendedStrongs": "H8654",
+      "Hebrew_Greek": "תִּרְעָתִים",
+      "ESV_translation": "Tirathite",
+      "NIV_translation": "Tirathite",
+      "KJV_translation": "Tirathite",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["1Ch.2.55"]
+    }
+
+]},
+{
+  "uniqueName": "Urim@Exo.28.30",
+  "description": "A religious item",
+   "names": [
+    {
+      "translatedUnique": "Urim@Exo.28.30",
+      "extendedStrongs": "G1212",
+      "Hebrew_Greek": "δῆλος",
+      "ESV_translation": "Urim",
+      "NIV_translation": "Urim",
+      "KJV_translation": "Urim",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["1Sa.14.41"]
+    },
+
+    {
+      "translatedUnique": "Urim@Exo.28.30",
+      "extendedStrongs": "H0224",
+      "Hebrew_Greek": "אוּרִים",
+      "ESV_translation": "Urim",
+      "NIV_translation": "Urim",
+      "KJV_translation": "Urim",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Exo.28.30", "Lev.8.8", "Num.27.21", "Deu.33.8", "1Sa.28.6", "Ezr.2.63", "Neh.7.65"]
+    }
+
+]},
+{
+  "uniqueName": "Weeks@Exo.34.22",
+  "description": "Name of a feastival",
+   "names": [
+    {
+      "translatedUnique": "Pentecost|Weeks@Exo.34.22",
+      "extendedStrongs": "G4005",
+      "Hebrew_Greek": "πεντηκοστή",
+      "ESV_translation": "Pentecost",
+      "NIV_translation": "Pentecost",
+      "KJV_translation": "Pentecost",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Act.2.1", "Act.20.16", "1Co.16.8"]
+    },
+
+    {
+      "translatedUnique": "Weeks@Exo.34.22",
+      "extendedStrongs": "H7620",
+      "Hebrew_Greek": "שָׁבוּעַ",
+      "ESV_translation": "Weeks",
+      "NIV_translation": "Weeks",
+      "KJV_translation": "Weeks",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Exo.34.22", "Num.28.26", "Deu.16.10", "Deu.16.16", "2Ch.8.13"]
+    }
+
+]},
+{
+  "uniqueName": "Zealot@Mat.10.4",
+  "description": "A group in New Testament times",
+   "names": [
+    {
+      "translatedUnique": "Zealot@Mat.10.4",
+      "extendedStrongs": "G2581",
+      "Hebrew_Greek": "Κανανίτης, Καναναῖος",
+      "ESV_translation": "Zealot",
+      "NIV_translation": "Zealot",
+      "KJV_translation": "Canaanite",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["Mat.10.4", "Mrk.3.18"]
+    }
+
+]},
+{
+  "uniqueName": "Ziv@1Ki.6.1",
+  "description": "Name of month #2",
+   "names": [
+    {
+      "translatedUnique": "Ziv@1Ki.6.1",
+      "extendedStrongs": "H2099",
+      "Hebrew_Greek": "זִו",
+      "ESV_translation": "Ziv",
+      "NIV_translation": "Ziv",
+      "KJV_translation": "Zif",
+      "OT_Ketiv_translated": "",
+      "OT_Qere_translated": "",
+      "NT_Variant_translated": "",
+      "exhaustiveReferences": ["1Ki.6.1", "1Ki.6.37"]
+    }
+
+]}
+]
