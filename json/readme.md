@@ -47,18 +47,19 @@ Each record starts with "$" and fields are separated by Tabs.
 The first line is a Header, and subsequent lines are linked subRecords which all start with a tab (i.e. an emty field). The fields in the Header can be regarded as the initial fields for each linked subRecord. 
 The fields in Headers for individuals and places are different:
 
+```
 $========== PERSON(s)
 UniqueName	Description	Parents Male+Female	Siblings	Partners	Offspring
 	UniqueTag	Hebrew/Greek	ESV name	Refs
 
 $========== PLACE
 UniqueName	Description	OpenBible name	Geoposition at OpenBible
-	UniqueTag	Hebrew/Greek	ESV name	Refs
+	UniqueTag	Hebrew/Greek	ESV name	Refs```
 
 $========== OTHER
 UniqueName	Description	
 	UniqueTag	Hebrew/Greek	ESV name	Refs
-
+```
 So, for a place name, the fields in the Header line are: Unique name, Description, OpenBible name, and Geoposition at OpenBible. These fields apply to each of the following linked subRecords which each contain the additional fields: UniqueTag, Heberew/Greek form, ESV Translation (with differences in KJV or NIV) and an exhaustive list of refences where this form and translation occurs. 
 For an individual the fields in the linked subRecords are identical, but the Header line contains the fields: Description, Parents, Siblings, Partners and a list of Offspring.
 When there is uncertainty about whether someone or some place in one reference is identical to the same name used in another place, this dataset tends to create a separate entry, unless there are good reasons to believe that they are identical. 
