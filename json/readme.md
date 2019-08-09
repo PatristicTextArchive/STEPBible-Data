@@ -2,7 +2,7 @@
 Proper Nouns in the ESV (+ differences in KJV & NIV) with unique tag for each individual and location, with Hebrew/Greek forms and an exhaustive list of occurences  
 
 Data created for www.STEPBible.org by Tyndale House Cambridge (CC BY-NC 4.0)  
-_Modified by Robert Rouse to tranform into JSON format_
+_Modified by Robert Rouse to transform into JSON format_
 
 This licence allows you to:
 * Include any part of this data in free software or free publications without requesting permission 
