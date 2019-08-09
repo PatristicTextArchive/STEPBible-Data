@@ -54,7 +54,7 @@ UniqueName	Description	Parents Male+Female	Siblings	Partners	Offspring
 
 $========== PLACE
 UniqueName	Description	OpenBible name	Geoposition at OpenBible
-	UniqueTag	Hebrew/Greek	ESV name	Refs```
+	UniqueTag	Hebrew/Greek	ESV name	Refs
 
 $========== OTHER
 UniqueName	Description	
